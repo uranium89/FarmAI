@@ -1,0 +1,12 @@
+# Tổng hợp báo cáo chuyên sâu về các loại cây trồng tại Việt Nam
+
+Tài liệu tổng hợp chuyên sâu về nhiều loại cây trồng (sầu riêng, mít, xoài, v.v.), bao gồm điều kiện tự nhiên, kỹ thuật canh tác, phòng trừ dịch hại, chu kỳ sinh trưởng và yêu cầu xuất khẩu. Dành cho nông dân, chuyên gia nông nghiệp và tổ chức nghiên cứu.
+
+## Mục lục
+
+- [Sầu riêng](/llm/sau-rieng/llms.txt)
+  - Báo cáo chuyên sâu về sầu riêng: giống, kỹ thuật, sâu bệnh, xuất khẩu...
+
+## Tham khảo chi tiết
+
+- [Hướng dẫn sử dụng và cập nhật dữ liệu](/llm/instruction.txt)

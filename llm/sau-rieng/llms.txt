@@ -1,0 +1,487 @@
+Báo cáo Nghiên cứu Chuyên sâu về Cây Sầu Riêng Trồng tại Việt Nam
+TÓM TẮT ĐIỀU KIỆN TỰ NHIÊN VÀ CANH TÁC SẦU RIÊNG TẠI VIỆT NAM
+Sầu riêng (Durio zibethinus Murry) là một loại cây ăn quả nhiệt đới có giá trị kinh tế đặc biệt cao, được đánh giá cao nhờ hương vị độc đáo và hàm lượng dinh dưỡng phong phú.1 Tại Việt Nam, sầu riêng đã vươn lên trở thành một trong những mặt hàng nông sản xuất khẩu chủ lực, với kim ngạch xuất khẩu đạt gần 2,2 tỷ USD tính đến tháng 11 năm 2023.2 Các giống sầu riêng thương mại phổ biến ở Đông Nam Á, bao gồm cả Việt Nam, đều có nguồn gốc từ bán đảo Mã Lai.3 Sự phát triển mạnh mẽ của ngành sầu riêng đã dẫn đến việc hình thành các vùng trồng trọng điểm và các thời vụ thu hoạch khác nhau, phản ánh sự đa dạng về điều kiện khí hậu trên cả nước.2 Báo cáo này trình bày chi tiết về các giống sầu riêng phổ biến, điều kiện thổ nhưỡng và khí hậu phù hợp, kỹ thuật canh tác, biện pháp phòng trừ dịch hại, chu kỳ sinh trưởng, cùng với các lưu ý đặc biệt liên quan đến ảnh hưởng của thời tiết cực đoan, kỹ thuật xử lý ra hoa nghịch vụ và các yêu cầu chất lượng cho xuất khẩu. Mục tiêu là cung cấp một tài liệu tham khảo chính xác và chuyên sâu cho các nhà nông, chuyên gia nông nghiệp và các tổ chức nghiên cứu, góp phần vào sự phát triển bền vững của ngành sầu riêng Việt Nam.
+1. GIỚI THIỆU VỀ CÂY SẦU RIÊNG TẠI VIỆT NAM
+Sầu riêng (Durio zibethinus Murry) là một loại cây ăn quả nhiệt đới được đánh giá cao về giá trị kinh tế và dinh dưỡng, với hương vị đặc trưng và được nhiều người tiêu dùng ưa chuộng.1 Việt Nam đã khẳng định vị thế là một trong những quốc gia sản xuất và xuất khẩu sầu riêng hàng đầu, minh chứng qua giá trị xuất khẩu ấn tượng gần 2,2 tỷ USD vào tháng 11 năm 2023.2 Sự tăng trưởng vượt bậc này đã thúc đẩy sự hình thành các vùng trồng chuyên canh và đa dạng hóa thời vụ thu hoạch, tận dụng tối đa sự khác biệt về điều kiện khí hậu giữa các khu vực.2
+Nguồn gốc của hầu hết các giống sầu riêng thương mại phổ biến ở Đông Nam Á, bao gồm cả Việt Nam, đều xuất phát từ bán đảo Mã Lai.3 Qua quá trình chọn lọc tự nhiên và các chương trình nghiên cứu chuyên sâu của chính phủ, nhiều giống sầu riêng chất lượng cao đã được công nhận và phát triển, làm phong phú thêm thị trường sầu riêng.3 Sự hiện diện của các giống cây đa dạng, cùng với chiến lược canh tác linh hoạt, cho phép Việt Nam thích ứng với nhu cầu thị trường khác nhau, từ tiêu thụ nội địa đến xuất khẩu. Việc có các giống chín sớm giúp khai thác thị trường đầu mùa với giá thành cao, trong khi các giống chất lượng cao đáp ứng các tiêu chuẩn khắt khe của thị trường quốc tế. Điều này cho thấy tầm quan trọng của việc liên tục nghiên cứu và cải thiện giống cây trồng để tối ưu hóa năng suất, chất lượng và khả năng cạnh tranh trên thị trường toàn cầu, đặc biệt khi các yêu cầu về chất lượng và truy xuất nguồn gốc ngày càng được nâng cao từ các thị trường nhập khẩu lớn.
+2. CÁC GIỐNG SẦU RIÊNG PHỔ BIẾN
+Việt Nam hiện đang canh tác nhiều giống sầu riêng, trong đó các giống Monthong (Thái), Ri6, Musang King, Sữa Hạt Lép (Chín Hóa) và Khổ Qua Xanh là những giống phổ biến nhất, chiếm phần lớn diện tích và sản lượng.3 Sự đa dạng này không chỉ phản ánh điều kiện tự nhiên phong phú của Việt Nam mà còn cho thấy một chiến lược thích ứng với nhu cầu thị trường đa dạng, cả trong nước và quốc tế. Việc có các giống chín sớm giúp khai thác thị trường đầu mùa, trong khi các giống có chất lượng cao đáp ứng yêu cầu xuất khẩu. Điều này nhấn mạnh tầm quan trọng của việc nghiên cứu và phát triển giống mới hoặc cải thiện giống hiện có để tối ưu hóa năng suất, chất lượng và khả năng cạnh tranh trên thị trường toàn cầu, đặc biệt là trong bối cảnh các yêu cầu về chất lượng và truy xuất nguồn gốc ngày càng cao từ các thị trường nhập khẩu lớn.
+2.1. Giống Ri6
+Giống Ri6 có nguồn gốc từ Đồng bằng sông Cửu Long.5 Đặc điểm cây Ri6 là dễ trồng, có khả năng thích nghi cao, cành mọc ngang và dáng cây hình tháp, với lá hình xoan màu xanh đậm.5 Giống này phát triển tốt trên đất có tính chất tốt và giàu dinh dưỡng.3 Trái Ri6 có kích thước lớn, cơm dày, màu vàng đậm, và tỷ lệ hạt lép cao, có thể lên đến 40%.3 Hương vị của Ri6 được mô tả là thơm ngọt tự nhiên, béo ngậy, với màu sắc hấp dẫn, giúp trái bán được giá cao trên thị trường.3 Thời gian từ khi đậu trái đến thu hoạch của Ri6 là khoảng 100-105 ngày.3 Là một giống chín sớm, Ri6 mang lại lợi thế về giá thành cao vào đầu mùa, khi nguồn cung thị trường còn hạn chế.5 Về năng suất, cây Ri6 có thể cho khoảng 50-70 trái/cây/năm.3 Khả năng kháng bệnh của Ri6 được ghi nhận là ít bị sâu bệnh hơn so với sầu riêng Thái, tuy nhiên, nếu đã nhiễm bệnh thì khả năng phục hồi của Ri6 lại khó hơn.5 Độ ngọt trung bình của Ri6 dao động từ 30-32 Brix, cao hơn so với Monthong.9
+2.2. Giống Monthong (Dona)
+Giống Monthong, còn được biết đến với tên gọi sầu riêng Thái hoặc Dona, có nguồn gốc từ Thái Lan và được trồng rộng rãi tại các vùng Tây Nguyên và Đông Nam Bộ của Việt Nam.3 Cây Monthong có đặc điểm cành mọc ngang, dáng cây hình tháp, và lá thuôn dài, mặt trên láng bóng với màu xanh hơi sậm.5 Giống này thể hiện khả năng sinh trưởng tốt và thích nghi cao với nhiều điều kiện môi trường.3 Trái Monthong có hình trứng hoặc hình chữ nhật, với gai dày và nhọn.5 Trọng lượng trái trung bình dao động từ 2,0 – 4,5kg 5, và thường khá to, khoảng 3-3.5kg.3 Cơm Monthong dày, có màu vàng nhạt, cơm ráo, không quá ngọt gắt, và mang mùi thơm nhẹ.5 Hương vị của giống này được mô tả là ngọt thanh, béo, và có mùi thơm đậm.3 Vỏ trái chuyển từ màu xanh sang vàng khi chín.3 Thời gian từ khi ra hoa đến đậu trái là 105-120 ngày 5, hoặc 115-120 ngày từ đậu trái đến thu hoạch.3 Monthong nổi bật với năng suất cao và ổn định, đạt khoảng 70-100 trái/cây/năm.3 Giống này cũng được ghi nhận có khả năng chống chịu sâu bệnh tốt.5 Độ ngọt trung bình của Monthong là từ 28-30 Brix.9
+2.3. Giống Musang King
+Giống Musang King có xuất xứ từ bang Sabah, Malaysia.5 Giống này thích hợp để trồng ở các vùng Tây Nguyên và Đồng bằng Sông Cửu Long của Việt Nam.5 Đặc điểm cây Musang King bao gồm bản lá nhỏ, thon và dài, với màu lá xanh ngả vàng, và cây phân hóa nhiều cành.5 Trái Musang King có hình ovan, trọng lượng quả từ 2,0-4,0kg. Vỏ trái mỏng, màu xanh đậm, và phần đích trái chia rõ thành 5 rãnh.5 Thời gian từ lúc đậu trái đến thu hoạch của giống này là khoảng 100-105 ngày.5 Một điểm đáng chú ý của Musang King là khả năng chống chịu bệnh do nấm Phytophthora và chất lượng quả ít bị ảnh hưởng bởi mưa.10 Độ ngọt trung bình của Musang King dao động từ 32-34 Brix, là mức cao nhất trong số các giống sầu riêng phổ biến được đề cập.9
+2.4. Giống Sữa Hạt Lép (Chín Hóa)
+Giống Sầu riêng Sữa Hạt Lép, còn được gọi là Chín Hóa, là một giống địa phương do ông Nguyễn Văn Hóa ở Bến Tre phát triển.5 Đặc điểm cây của giống này là tán hình tháp, lá thuôn dài với đuôi lá bầu, chót lá ngắn, và mặt trên bóng loáng màu xanh đậm.5 Cây sinh trưởng khá mạnh.5 Mặc dù khó điều khiển ra hoa, nhưng giống này lại có tỉ lệ đậu quả khá cao.5 Trái Sữa Hạt Lép có cơm màu vàng sữa hạt lép 5, trọng lượng trung bình từ 2-2,5kg.3 Thịt quả có vị ngọt rất béo, và cơm mềm nhưng không dính tay.3 Tuy nhiên, giống này có nhược điểm là khi gặp mưa nhiều sẽ khó ra hoa, và cơm dễ bị mềm, nhão.5 Thời gian từ lúc đậu trái đến khi thu hoạch là khoảng 100-110 ngày.3 Năng suất của giống Sữa Hạt Lép được đánh giá là ổn định 5, đạt khoảng 50-70 trái/cây/năm.3 Thông tin chi tiết về khả năng kháng bệnh cụ thể của giống này còn hạn chế trong các tài liệu, tuy nhiên, hiện tượng sượng cơm nhão thường được ghi nhận ở giống này.11 Sự thiếu hụt thông tin chi tiết và định lượng về khả năng kháng bệnh của một số giống sầu riêng phổ biến tại Việt Nam là một khoảng trống nghiên cứu quan trọng. Để phát triển canh tác bền vững và giảm thiểu rủi ro, cần có các nghiên cứu sâu hơn về tính kháng bệnh của từng giống đối với các loại sâu bệnh phổ biến, đặc biệt là các bệnh do nấm Phytophthora (xì mủ, thối rễ) vốn rất nghiêm trọng. Việc thiếu dữ liệu này có thể gây khó khăn cho nông dân trong việc lựa chọn giống phù hợp với điều kiện dịch tễ tại địa phương và xây dựng chiến lược phòng trừ tổng hợp hiệu quả.
+2.5. Giống Khổ Qua Xanh
+Giống sầu riêng Khổ Qua Xanh là một giống địa phương, được trồng phổ biến ở huyện Cai Lậy, tỉnh Tiền Giang.3 Cây của giống này có đặc điểm sinh trưởng mạnh mẽ, với cành nhánh sum suê, và dễ ra hoa, đậu trái.3 Giống Khổ Qua Xanh được đánh giá là dễ trồng và yêu cầu vốn đầu tư cho phân bón và thuốc trừ sâu khá nhẹ.13 Trái Khổ Qua Xanh có trọng lượng trung bình từ 1,4-1,6 kg, và vỏ vẫn giữ màu xanh khi chín.3 Cơm quả mỏng, có vị béo vừa và ngọt, kèm theo một chút đắng nhẹ nhưng rất thơm.3 Thời gian từ khi đậu trái đến thu hoạch của giống này là khoảng 95-100 ngày.3 Về năng suất, cây Khổ Qua Xanh từ 10-15 tuổi có thể cho khoảng 120-150 trái/cây.3 Tương tự như giống Sữa Hạt Lép, thông tin cụ thể về khả năng kháng bệnh của Khổ Qua Xanh còn hạn chế trong các tài liệu, tuy nhiên, giống này cũng thường gặp hiện tượng nhão cơm.11
+Bảng 1: So sánh đặc điểm các giống sầu riêng phổ biến
+Tiêu chí
+	Ri6
+	Monthong (Dona)
+	Musang King
+	Sữa Hạt Lép (Chín Hóa)
+	Khổ Qua Xanh
+	Nguồn gốc
+	Đồng bằng Sông Cửu Long
+	Thái Lan
+	Malaysia
+	Bến Tre (địa phương)
+	Tiền Giang (địa phương)
+	Đặc điểm cây
+	Dễ trồng, thích nghi cao, dáng tháp, lá xoan xanh đậm
+	Dáng tháp, cành ngang, lá thuôn dài, xanh sậm
+	Lá nhỏ, thon dài, xanh ngả vàng, nhiều cành
+	Tán tháp, lá thuôn, xanh đậm, sinh trưởng mạnh
+	Sinh trưởng mạnh, cành sum suê, dễ ra hoa
+	Năng suất
+	50-70 trái/cây/năm
+	70-100 trái/cây/năm
+	Không rõ (cho trái bói từ năm 5)
+	50-70 trái/cây/năm
+	120-150 trái/cây (10-15 tuổi)
+	Trọng lượng trái TB
+	Lớn (bán được giá cao)
+	3-3.5 kg
+	2.0-4.0 kg
+	2-2.5 kg
+	1.4-1.6 kg
+	Thời gian thu hoạch (từ đậu trái)
+	100-105 ngày
+	115-120 ngày
+	100-105 ngày
+	100-110 ngày
+	95-100 ngày
+	Hương vị
+	Thơm ngọt, béo, cơm dày, vàng đậm, hạt lép
+	Ngọt thanh, béo, thơm đậm, cơm dày, vàng nhạt, cơm ráo
+	Không rõ (ngon nhất thế giới)
+	Ngọt rất béo, thịt vàng, cơm mềm không dính tay
+	Béo vừa, ngọt, hơi đắng, rất thơm, cơm mỏng
+	Màu sắc cơm
+	Vàng tươi bắt mắt
+	Vàng nhạt
+	Không rõ
+	Vàng cám
+	Không rõ
+	Tỷ lệ hạt lép
+	Lên đến 40%
+	Không rõ
+	Cao (trên 90%)
+	Hạt lép
+	Không rõ
+	Kháng bệnh
+	Ít sâu bệnh (khó phục hồi nếu nhiễm)
+	Chống chịu sâu bệnh tốt
+	Chống chịu Phytophthora
+	Dễ sượng cơm nhão, thông tin kháng bệnh hạn chế
+	Dễ nhão cơm, thông tin kháng bệnh hạn chế
+	Độ ngọt (Brix)
+	30-32%
+	28-30%
+	32-34%
+	Không rõ
+	Không rõ
+	3. ĐIỀU KIỆN THỔ NHƯỠNG VÀ KHÍ HẬU PHÙ HỢP
+Sầu riêng là cây ăn quả nhiệt đới điển hình, yêu cầu điều kiện khí hậu và đất đai cụ thể để sinh trưởng và phát triển tối ưu, từ đó cho năng suất và chất lượng quả cao.6
+3.1. Yêu cầu chung về Khí hậu
+Cây sầu riêng phát triển tốt nhất trong môi trường có nhiệt độ lý tưởng từ 24-30°C.6 Nhiệt độ dưới 18°C hoặc trên 40°C trong thời gian dài có thể làm chậm hoặc ngừng sinh trưởng, ảnh hưởng nghiêm trọng đến quá trình ra hoa và đậu quả.6
+Về lượng mưa, sầu riêng cần lượng mưa hàng năm từ 1.500–2.500 mm 6, với sự phân bố đều trong năm là tối ưu.14 Lượng mưa lý tưởng nhất là khoảng 2.000mm/năm.14 Mùa khô không nên kéo dài quá 2-3 tháng 6, bởi cây sầu riêng chịu hạn rất kém; nếu mùa khô kéo dài 4-5 tháng, cần phải tưới nước thường xuyên.15
+Nhu cầu ánh sáng của cây sầu riêng thay đổi theo giai đoạn phát triển. Khi cây còn nhỏ, sầu riêng ưa bóng râm và không cần quá nhiều ánh sáng trực tiếp, cần được che mát (giảm 30-40% ánh sáng) để tránh cháy lá và giảm mất nước.15 Tuy nhiên, khi cây trưởng thành, sầu riêng ưa sáng và cần ánh nắng trực tiếp đầy đủ để quang hợp hiệu quả và hỗ trợ quá trình ra hoa, kết quả, từ đó gia tăng sản lượng.6
+Độ ẩm không khí lý tưởng cho sầu riêng dao động khoảng 75–85%.6 Mức độ ẩm cao này giúp lá cây tươi tốt và giảm nguy cơ rụng lá.6
+Cây sầu riêng có thân gỗ yếu và bộ rễ nông, do đó không chịu được gió mạnh.14 Gió mạnh có thể gây gãy nhánh, rụng quả, ảnh hưởng đáng kể đến năng suất và sản lượng.14 Vì vậy, ở những vùng thường xuyên có gió mạnh, cần thiết phải có đai rừng chắn gió hoặc trồng các loại cây chắn gió để giảm thiểu thiệt hại.6
+3.2. Yêu cầu chung về Đất đai
+Sầu riêng có khả năng sinh trưởng và phát triển trên nhiều loại đất khác nhau, bao gồm đất thịt pha cát, đất thịt pha sét, đất phù sa, đất đỏ bazan và đất xám.6 Tuy nhiên, cây không thích hợp với đất cát thuần hoặc đất sét nặng do khả năng thoát nước kém.14
+Độ pH lý tưởng cho đất trồng sầu riêng là từ 5.0–6.5.6 Một số vùng có độ pH từ 5.0-5.5 vẫn cho phép sầu riêng phát triển khá tốt.24 Nếu đất quá chua, cần bón vôi để cải tạo đất, giúp ngăn ngừa bệnh thối rễ.6
+Yêu cầu về thoát nước là cực kỳ quan trọng; đất trồng sầu riêng phải thoát nước tốt.6 Đất sét nặng với khả năng thoát nước kém dễ dẫn đến thối rễ do nấm bệnh và tình trạng ngập úng.14 Do đó, cần có hệ thống thoát nước tốt, đặc biệt quan trọng trong mùa mưa.15 Mực nước ngầm không nên cao hơn 1.0 m 6, hoặc 1.0-1.2m 15, vì mực nước ngầm cao dễ gây úng và bệnh cho rễ.6
+Đất trồng sầu riêng lý tưởng nên giàu chất hữu cơ.6 Việc bổ sung định kỳ phân chuồng hoai mục, phân hữu cơ vi sinh hoặc phân compost là cần thiết để duy trì hàm lượng hữu cơ trong đất ở mức tối thiểu 2%.6 Ngoài ra, đất cũng cần có đủ các nguyên tố vi lượng như Bo, Kẽm, Sắt, Mangan, những chất này hỗ trợ quá trình đậu trái, nuôi trái và tăng cường sức đề kháng cho cây.6 Tầng canh tác của đất cũng cần sâu, khuyến nghị trên 1m.6
+3.3. Phân tích theo vùng miền
+Đồng bằng Sông Cửu Long (ĐBSCL):
+Khu vực ĐBSCL có khí hậu nóng ẩm, mưa nhiều, với nhiệt độ trung bình cao, giúp rút ngắn thời gian phát triển trái.7 Đặc biệt, các nhà vườn tại đây có khả năng chủ động kiểm soát nguồn nước trong cả mùa khô và mùa mưa, tạo điều kiện thuận lợi cho việc áp dụng kỹ thuật xử lý ra hoa rải vụ gần như quanh năm.28 Điều này cho phép điều tiết nguồn cung, tránh tình trạng "được mùa mất giá" và tối đa hóa lợi nhuận. Khả năng kiểm soát nguồn nước và sự phân hóa mùa rõ rệt là yếu tố then chốt cho việc điều khiển ra hoa sầu riêng, đặc biệt là ra hoa nghịch vụ. Các vùng có khả năng chủ động nước như ĐBSCL có lợi thế lớn trong việc áp dụng kỹ thuật này, giúp rải vụ thu hoạch và bán được giá cao hơn. Điều này nhấn mạnh tầm quan trọng của quản lý nước trong canh tác sầu riêng. Nông dân và chuyên gia cần đầu tư vào hệ thống tưới tiêu và thoát nước hiệu quả, cũng như hiểu rõ đặc điểm khí hậu địa phương để tối ưu hóa lịch trình canh tác, đặc biệt là việc điều khiển ra hoa để đáp ứng nhu cầu thị trường và tối đa hóa lợi nhuận.
+Đất đai ở ĐBSCL chủ yếu là đất phù sa.7 Do địa hình thấp, cần phải đào mương và đắp mô để chống úng và nâng cao tầng canh tác.19 Độ pH lý tưởng cho sầu riêng ở đây là 6-6.5.24 Các giống sầu riêng phù hợp với vùng này bao gồm Ri6, Monthong, Sầu riêng Chuồng Bò, 6 Hữu và Khổ Qua Xanh.2 Thời vụ thu hoạch chính vụ thường rơi vào tháng 3 – tháng 5 dương lịch, còn thời vụ nghịch vụ là từ tháng 11 – tháng 3 dương lịch.2
+Đông Nam Bộ:
+Khu vực Đông Nam Bộ có khí hậu và lượng mưa phù hợp, với một thời gian khô hạn thuận lợi cho quá trình phân hóa hoa của cây sầu riêng.14 Loại đất phổ biến ở đây là đất đỏ bazan và đất xám.14 Đất đỏ có tầng lớp dày và độ màu mỡ khá 14, tuy nhiên, cần đặc biệt chú ý tưới nước để giữ ẩm cho cây trong mùa khô.14 Giống Monthong (Thái, Dona) được đánh giá là phù hợp với điều kiện thổ nhưỡng và khí hậu của vùng này.23 Các tỉnh trọng điểm về trồng sầu riêng tại Đông Nam Bộ bao gồm Đồng Nai, Bình Dương và Bình Phước.2
+Tây Nguyên:
+Tây Nguyên cũng sở hữu khí hậu và lượng mưa thuận lợi, với một thời gian khô hạn đủ để kích thích quá trình phân hóa hoa.14 Đặc biệt, các khu vực như Bảo Lộc và Di Linh (Lâm Đồng) nằm ở độ cao khoảng 800m so với mực nước biển, có nhiệt độ trung bình ổn định (19,5 – 22,4°C), lượng mưa dồi dào và mùa khô hạn ngắn (chỉ 2-3 tháng), tạo điều kiện lý tưởng cho sầu riêng sinh trưởng và phát triển.14 Loại đất chủ yếu là đất đỏ bazan 6, với tầng lớp dày và độ màu mỡ khá.14 Giống Monthong (Thái, Dona) rất phù hợp với vùng này 23, và Musang King cũng được khuyến nghị trồng ở đây.5 Thời vụ thu hoạch sầu riêng ở Tây Nguyên thường chậm hơn so với Đồng bằng sông Cửu Long khoảng 1-2 tháng, điều này tạo lợi thế cho việc rải vụ thu hoạch và cung cấp sản phẩm ra thị trường vào thời điểm giá cao hơn.14 Thời vụ tốt nhất để trồng sầu riêng ở Tây Nguyên là từ tháng 4-6.6 Các tỉnh trọng điểm bao gồm Đắk Lắk, Đắk Nông, Gia Lai và Lâm Đồng.6
+Các điều kiện thời tiết cực đoan như hạn mặn và ngập úng là những thách thức nghiêm trọng đối với canh tác sầu riêng, đặc biệt ở các vùng nhạy cảm như ĐBSCL. Sầu riêng rất mẫn cảm với điều kiện mặn (ngưỡng chịu đựng 0.2-0.4‰, tối đa 0.4‰) và ngập úng (rễ chết sau 1-2 ngày ngập).27 Hạn mặn gây cháy và rụng hoa, tỉ lệ đậu quả thấp, chất lượng quả kém.31 Ngập úng gây thiếu oxy rễ, chết rễ, lá héo úa.27 Biến đổi khí hậu ngày càng khó lường, đặc biệt là tại ĐBSCL, nơi hạn mặn và ngập úng diễn ra thường xuyên hơn.31 Sự mẫn cảm của cây sầu riêng với những yếu tố này đòi hỏi các giải pháp thích ứng chủ động và dài hạn. Cần có chiến lược tổng thể bao gồm chọn tạo giống/gốc ghép thích ứng với điều kiện biến đổi khí hậu, cải tiến kỹ thuật canh tác (tích trữ nước ngọt, hệ thống lọc nước nhiễm mặn, thiết kế vườn thoát nước tốt, bón vôi, phân hữu cơ để phục hồi đất) và xây dựng công trình chống mặn.27 Điều này không chỉ là vấn đề kỹ thuật mà còn là chiến lược phát triển nông nghiệp bền vững trong bối cảnh biến đổi khí hậu.
+4. KỸ THUẬT CANH TÁC
+Kỹ thuật canh tác đóng vai trò then chốt trong việc đảm bảo cây sầu riêng sinh trưởng khỏe mạnh, cho năng suất và chất lượng quả cao, đặc biệt khi hướng tới các tiêu chuẩn như VietGAP.20 Việc áp dụng kỹ thuật canh tác "đúng lúc, đúng cách" theo chu kỳ sinh trưởng của cây sầu riêng là cực kỳ quan trọng. Đây không chỉ là một tập hợp các hành động riêng lẻ mà là một hệ thống quản lý tổng hợp, nơi mỗi yếu tố chăm sóc (nước, phân, ánh sáng, tỉa cành) được điều chỉnh để tối ưu hóa phản ứng sinh lý của cây, từ đó nâng cao năng suất và chất lượng quả. Điều này ngụ ý rằng người nông dân cần có kiến thức sâu rộng về sinh lý cây sầu riêng và khả năng quan sát, điều chỉnh linh hoạt các biện pháp canh tác. Việc tuân thủ các tiêu chuẩn như VietGAP là một cách để hệ thống hóa và đảm bảo tính khoa học của quy trình này, giúp nâng cao hiệu quả tổng thể của vườn cây.
+4.1. Quy trình trồng cây con
+Để đảm bảo cây sầu riêng con phát triển tốt, việc lựa chọn giống và chuẩn bị đất là những bước đầu tiên quan trọng. Cây giống tốt phải có gốc ghép thẳng, đường kính từ 1.0-1.5 cm, với bộ rễ phát triển khỏe mạnh.20 Thân cây phải thẳng và vững chắc, có ít nhất từ 3 cành cấp 1 trở lên.20 Cây giống phải đúng chủng loại, và tuổi xuất vườn lý tưởng là từ 5-7 tháng sau khi ghép, khi lá ngọn đã trưởng thành, xanh tốt và cây đã được huấn luyện để thích nghi hoàn toàn với ánh sáng.20
+Công tác chuẩn bị đất khác nhau tùy theo địa hình. Tại vùng Đồng bằng sông Cửu Long, do địa hình thấp, cần tiến hành đắp mô hình tròn có chiều rộng từ 5-7m và chiều cao tối thiểu 0.5m trên các liếp để chống úng.20 Vật liệu đắp mô thường bao gồm 1/4 phân chuồng ủ hoai mục trộn với 3/4 đất màu mỡ.20 Các mô nên được bố trí theo hướng Bắc-Nam để cây nhận đủ ánh sáng mặt trời.24 Kèm theo đó, cần đào mương rộng 2-3m, sâu 1-2m, nối với mương chính ở cuối vườn để đảm bảo thoát nước tốt.24 Việc bồi mô định kỳ vào mùa nắng cũng rất quan trọng để tránh sạt lở.24 Đối với các vùng đất cao như Đông Nam Bộ và Tây Nguyên, không cần đắp mô mà chỉ cần đào hố trồng. Kích thước hố khuyến nghị là 60x60x60 cm, có thể đào lớn hơn khoảng 10cm nếu đất quá xấu.24 Trước khi trồng, cần bón lót vào mỗi hố 25-30 kg phân chuồng ủ hoai mục, kèm theo 0.3-0.5 kg lân, 0.2 kg NPK (20:20:10) và thuốc chống mối, côn trùng cắn rễ.24 Hỗn hợp này cần được trộn đều với lớp đất mặt và lấp đầy hố, sau đó tưới nước ủ đống trước khi trồng cây con từ 15-30 ngày.24 Toàn bộ công tác chuẩn bị mô hoặc hố cần được hoàn thành trước khi trồng cây con khoảng 15-20 ngày.20
+Khoảng cách trồng sầu riêng cũng cần được tính toán kỹ lưỡng. Ở ĐBSCL, khoảng cách khuyến nghị là từ 6x6m đến 8x8m.20 Trong khi đó, ở Miền Đông Nam Bộ, khoảng cách trồng thường rộng hơn, từ 10x10m.20 Mật độ trồng có thể điều chỉnh tùy thuộc vào vùng đất, đặc điểm của giống cây và mục đích khai thác vườn.15 Việc trồng thưa giúp vườn thông thoáng, cây khỏe mạnh hơn và ít bị bệnh thối trái.21 Ngược lại, nếu trồng với mật độ cao (ví dụ 156 cây/ha hoặc hơn), cần áp dụng các kỹ thuật như hạ thấp chiều cao cây và tỉa cành để thu hẹp tán, đảm bảo cây vẫn nhận đủ ánh sáng và không cạnh tranh dinh dưỡng quá mức.20
+Khi trồng, cần cắt bỏ đáy bầu đất, đặt cây vào hố hoặc mô sao cho mặt bầu cây con ngang với mặt đất đã lấp, tránh lấp đất cao hơn mặt bầu hoặc làm tổn thương cây con.16 Sau đó, cắm cọc để giữ cây khỏi đổ ngã và che bóng cho cây con, lưu ý không che quá 50% ánh sáng mặt trời để cây vẫn có thể quang hợp.16 Thời vụ trồng sầu riêng tốt nhất là vào đầu mùa mưa (tháng 4-6 ở Tây Nguyên, tháng 5-7 ở Miền Nam, tháng 9-11 ở Miền Trung) để cây dễ bén rễ, giúp giảm công và chi phí tưới tiêu ban đầu.6
+4.2. Kỹ thuật tưới tiêu
+Kỹ thuật tưới tiêu là một yếu tố quan trọng trong canh tác sầu riêng, cần được điều chỉnh phù hợp với từng giai đoạn sinh trưởng của cây. Ở giai đoạn cây con, việc tưới nước đều đặn 1-2 lần/ngày trong mùa khô là cần thiết để duy trì độ ẩm ổn định, giúp cây bén rễ nhanh chóng và phát triển khỏe mạnh.1
+Khi cây bước vào giai đoạn ra hoa, cần tưới nước cách ngày để đảm bảo hoa phát triển tốt và hạt phấn khỏe mạnh. Tuy nhiên, khoảng 1 tuần trước khi hoa nở, cần giảm khoảng 2/3 lượng nước tưới (trong khi vẫn giữ chu kỳ tưới) để giúp hạt phấn khỏe hơn, từ đó tăng khả năng thụ phấn và đậu quả.20
+Sau khi hoa đã đậu quả thành công, lượng nước tưới cần được tăng dần trở lại mức bình thường. Điều này đảm bảo quả có đủ nước để phát triển khỏe mạnh, đạt chất lượng cao và hạn chế tình trạng rụng quả non.1
+Để duy trì độ ẩm hiệu quả cho đất, đặc biệt trong mùa khô, việc tủ gốc là một biện pháp hữu ích. Sử dụng rơm hoặc cỏ khô phủ kín mô đất một lớp dày 10-20cm, cách gốc cây từ 10-50cm tùy theo kích thước cây. Biện pháp này giúp giữ ẩm, kéo dài thời gian giữa các lần tưới, hạn chế sốc nhiệt cho cây và giảm cơ hội cho mầm bệnh tấn công vùng gốc.15 Ngoài ra, việc thiết lập hệ thống tưới tiết kiệm, chẳng hạn như béc phun, là cần thiết để tối ưu hóa việc sử dụng nước, đặc biệt trong mùa khô hoặc khi áp dụng kỹ thuật xử lý ra hoa nghịch vụ.6
+4.3. Kỹ thuật tạo tán và tỉa cành
+Kỹ thuật tạo tán và tỉa cành là những biện pháp canh tác không thể thiếu để định hình cây sầu riêng, tối ưu hóa sự phát triển và năng suất. Việc tạo tán cần được thực hiện ngay từ năm đầu tiên sau khi trồng.20 Mục tiêu là tỉa bỏ các chồi mọc từ gốc ghép, các cành mọc thấp hoặc mọc đứng, chỉ giữ lại một thân chính mọc thẳng đứng với các cành cấp 1 mọc ngang (góc 70-90 độ) và phân bố đều về các hướng.20 Khi cây còn nhỏ, khoảng cách giữa các cành cấp 1 nên duy trì từ 8-10cm, và khi cây lớn hơn, khoảng cách này nên tăng lên trên 30cm. Cành đầu tiên tính từ mặt đất phải cao hơn 70cm để đảm bảo sự thông thoáng và dễ dàng cho các hoạt động chăm sóc.20
+Bên cạnh việc tạo tán ban đầu, tỉa cành định kỳ cũng rất quan trọng. Sau mỗi vụ thu hoạch, cần tỉa bỏ các cành mọc vượt, cành yếu, cành bị sâu bệnh gây hại nặng, cành đã kiệt sức do mang nhiều quả, cũng như các cành mọc xen kẽ, mọc quá dày trong tán hoặc cành đan giữa hai cây.17 Ngoài ra, định kỳ hai tháng một lần, cần tỉa bỏ các cành hay cụm cành mọc từ thân, cành chính, cành mọc vượt hoặc các cành mọc bên trong tán cây ở những vị trí không mong muốn.20
+Mục đích chính của việc tạo tán và tỉa cành là đảm bảo vườn cây luôn thông thoáng, giúp cây hấp thụ ánh sáng tốt hơn, từ đó tập trung năng lượng vào việc ra hoa thay vì phát triển cành lá.18 Điều này không chỉ giúp hạn chế sự phát triển của sâu bệnh hại mà còn góp phần nâng cao năng suất và chất lượng quả.20 Các biện pháp canh tác này không chỉ là kỹ thuật chăm sóc đơn thuần mà còn là những chiến lược phòng trừ dịch hại hữu hiệu. Một vườn cây thông thoáng, đủ dinh dưỡng, và được vệ sinh tốt sẽ tạo ra một môi trường ít thuận lợi cho sự phát triển và lây lan của sâu bệnh, giảm sự phụ thuộc vào các biện pháp hóa học. Điều này thể hiện nguyên tắc của Quản lý dịch hại tổng hợp (IPM), nơi các biện pháp phòng ngừa và canh tác được ưu tiên hàng đầu, kết hợp với các biện pháp sinh học và chỉ sử dụng hóa học khi cần thiết và theo nguyên tắc 4 đúng. Đây là hướng tiếp cận bền vững, giảm thiểu tác động tiêu cực đến môi trường và sức khỏe con người, đồng thời nâng cao chất lượng sản phẩm.
+4.4. Lịch bón phân
+Việc bón phân cho cây sầu riêng cần tuân thủ một lịch trình khoa học và cân đối, sử dụng đa dạng các loại phân bón như phân hữu cơ (phân chuồng hoai mục, hữu cơ vi sinh, compost), phân vô cơ (phân đơn Ure, Lân, Kali hoặc NPK tổng hợp), và vôi.6
+Giai đoạn kiến thiết cơ bản (cây con đến 4 tuổi):
+Trong giai đoạn này, cây sầu riêng chủ yếu tập trung phát triển thân, cành, lá và bộ rễ, tạo nền tảng vững chắc cho các vụ mùa sau.
+* Phân hữu cơ: Bón 10-30 kg phân chuồng hoai mục (hoặc 3-5 kg hữu cơ vi sinh) mỗi cây mỗi năm, định kỳ một lần/năm.20 Lượng phân chuồng cần tăng dần theo tuổi cây, ví dụ: 10-20kg/cây trong năm 1-2, và 25-30kg/cây vào năm thứ 4.20
+* Phân vô cơ: Bắt đầu bón khi cây ra tược non đầu tiên.20 Lượng phân bón nên được chia nhỏ và bón thành nhiều lần trong năm (4-9 lần/năm, đặc biệt năm đầu tiên nên bón 6-9 lần/năm).20 Các loại phân NPK tổng hợp như 16-16-8, 20-20-15, hoặc 20:10:10 được sử dụng với liều lượng thấp ban đầu và tăng dần theo tuổi cây (ví dụ: 0.3-0.5 kg/cây/năm ở tuổi 1, đến 2-3 kg/cây/năm ở tuổi 4).6
+* Vôi: Bón 0.5-1kg vôi/cây vào đầu mùa mưa, đặc biệt nếu độ pH của đất dưới 6.5.20
+* Cách bón: Phân bón có thể được pha vào nước để tưới gốc hoặc xới nhẹ xung quanh gốc trước khi bón và tưới nước.20
+Giai đoạn kinh doanh (cây 5-6 tuổi trở lên):
+Ở giai đoạn này, cây sầu riêng bắt đầu cho trái ổn định và cần lượng dinh dưỡng lớn để nuôi quả. Tổng lượng phân khuyến nghị là 900g N – 700g P2O5 – 950g K2O/cây/năm.20
+* Lần 1 (sau thu hoạch): Bón phân hữu cơ (20-30kg phân chuồng ủ hoai hoặc 4kg hữu cơ chế biến/cây) kết hợp NPK tỷ lệ 2:1:1 (400g N – 200g P2O5 – 200g K2O/cây) và nấm Trichoderma để giúp cây phục hồi sức sau vụ thu hoạch.20
+* Lần 2 (trước nở hoa 30-40 ngày): Bón NPK hàm lượng lân cao tỷ lệ 1:3:2 (100g N – 300g P2O5 – 200g K2O/cây) kết hợp lân hữu cơ để kích thích quá trình tạo mầm hoa.20
+* Lần 3 (2 tuần sau nở hoa/đậu quả): Bón NPK hàm lượng kali cao tỷ lệ 2:1:1 (200g N – 100g P2O5 – 100g K2O/cây) kết hợp phân hữu cơ (4kg/cây) để hỗ trợ đậu trái và phát triển ban đầu của quả.20
+* Lần 4 (4 tuần sau đậu trái): Tiếp tục bón NPK hàm lượng kali cao tỷ lệ 2:1:2 (200g N – 100g P2O5 – 200g K2O/cây) để thúc đẩy quả phát triển kích thước và chất lượng.20
+* Lần 5 (1 tháng trước thu hoạch): Bón 0.5 kg K2SO4 để tăng cường chất lượng quả, đặc biệt là độ ngọt và độ ráo cơm.20
+* Cách bón: Phân bón được rải hoặc xới nhẹ quanh gốc cây theo hình chiếu tán cây và sau đó tưới nước để phân tan và được hấp thụ.20
+* Lưu ý quan trọng: Cần bón phân cân đối, tránh bón các loại phân có chứa gốc Chlor (như KCl) vì có thể gây ra hiện tượng sượng cơm ở trái sầu riêng.12
+Bảng 2: Lịch bón phân khuyến nghị cho cây sầu riêng theo giai đoạn sinh trưởng
+Giai đoạn sinh trưởng
+	Loại phân bón chính
+	Tỷ lệ NPK khuyến nghị
+	Liều lượng (kg/cây/năm hoặc kg/cây/lần)
+	Thời điểm bón
+	Lưu ý đặc biệt
+	Kiến thiết cơ bản
+	
+
+	
+
+	
+
+	
+
+	
+
+	Năm 1
+	Hữu cơ + NPK
+	16-16-8 hoặc 20-20-15
+	10-20 kg hữu cơ + 0.3-0.5 kg NPK
+	4-9 lần/năm (năm đầu 6-9 lần)
+	Bắt đầu khi ra tược non đầu tiên. Chia nhỏ lượng bón.
+	Năm 2
+	Hữu cơ + NPK
+	16-16-8 hoặc 20-20-15
+	10-20 kg hữu cơ + 0.6-1.0 kg NPK
+	4-9 lần/năm
+	Tăng dần lượng NPK.
+	Năm 3
+	Hữu cơ + NPK
+	16-16-8 hoặc 20-20-15
+	20-25 kg hữu cơ + 1.0-2.0 kg NPK
+	4-9 lần/năm
+	
+
+	Năm 4
+	Hữu cơ + NPK
+	16-16-8 hoặc 20-20-15
+	25-30 kg hữu cơ + 2.0-3.0 kg NPK
+	4-9 lần/năm
+	
+
+	Vôi
+	Vôi
+	N/A
+	0.5-1 kg/cây
+	Đầu mùa mưa (nếu pH < 6.5)
+	
+
+	Giai đoạn kinh doanh
+	
+
+	
+
+	
+
+	
+
+	
+
+	Sau thu hoạch
+	Hữu cơ (phân chuồng/chế biến) + NPK + Trichoderma
+	2:1:1
+	20-30 kg hữu cơ (hoặc 4 kg hữu cơ chế biến) + 400g N – 200g P2O5 – 200g K2O
+	Sau thu hoạch
+	Phục hồi cây, kích thích ra đọt mới.
+	Trước nở hoa (30-40 ngày)
+	NPK hàm lượng Lân cao + Lân hữu cơ
+	1:3:2
+	100g N – 300g P2O5 – 200g K2O
+	Trước ra hoa 30-40 ngày
+	Tạo mầm hoa.
+	Đậu quả (2 tuần sau nở hoa)
+	NPK hàm lượng Kali cao + Hữu cơ
+	2:1:1
+	200g N – 100g P2O5 – 100g K2O + 4 kg hữu cơ
+	2 tuần sau nở hoa
+	Hỗ trợ đậu trái, phát triển ban đầu của quả.
+	Phát triển quả (4 tuần sau đậu trái)
+	NPK hàm lượng Kali cao
+	2:1:2
+	200g N – 100g P2O5 – 200g K2O
+	4 tuần sau đậu trái
+	Thúc đẩy quả lớn nhanh, đạt kích thước.
+	Trước thu hoạch (1 tháng)
+	K2SO4
+	N/A
+	0.5 kg
+	1 tháng trước thu hoạch
+	Tăng chất lượng quả (độ ngọt, độ ráo cơm).
+	Lưu ý: Liều lượng phân bón vô cơ tổng cộng cho cây 5-6 tuổi trở lên là 900g N – 700g P2O5 – 950g K2O/cây/năm. Cách bón là rải hoặc xới nhẹ quanh gốc theo hình chiếu tán cây và tưới nước.
+5. PHÒNG TRỪ DỊCH HẠI
+Quản lý sâu bệnh hại là yếu tố then chốt để đảm bảo năng suất và chất lượng sầu riêng, đặc biệt khi cây sầu riêng dễ bị ảnh hưởng bởi nhiều loại sâu bệnh khác nhau.35 Các biện pháp phòng trừ dịch hại trên cây sầu riêng không nên được xem xét độc lập mà cần được tích hợp trong một chiến lược tổng thể. Điều này phản ánh nguyên tắc của Quản lý Dịch hại Tổng hợp (IPM), nơi mục tiêu là giảm thiểu thiệt hại do sâu bệnh bằng cách tối ưu hóa sức khỏe cây trồng và môi trường vườn, giảm sự phụ thuộc vào hóa chất. Việc áp dụng IPM không chỉ giúp bảo vệ cây trồng hiệu quả hơn mà còn góp phần vào nông nghiệp bền vững, giảm thiểu ô nhiễm môi trường, bảo vệ đa dạng sinh học (thiên địch) và đảm bảo an toàn thực phẩm, điều này ngày càng quan trọng cho các thị trường xuất khẩu.
+5.1. Các loại sâu bệnh phổ biến
+Cây sầu riêng thường phải đối mặt với nhiều loại sâu bệnh gây hại, ảnh hưởng trực tiếp đến sinh trưởng và năng suất.
+* Bệnh xì mủ: Do nấm Phytophthora palmivora gây ra.36 Triệu chứng bao gồm cây úa vàng, rụng lá dần và có thể chết khô.36 Bệnh thường biểu hiện qua việc chảy nhựa thành một vệt dài trên thân, cành, hoặc nách cây, và cũng có thể gây thối trái.36 Bệnh phát sinh mạnh vào mùa mưa, khi có sương mù, nhiệt độ thấp, và vườn cây ẩm thấp, thoát nước kém hoặc rậm rạp.36 Vườn trồng trên nền đất cũ từng có các cây ký chủ của nấm như cao su, tiêu, dừa cũng dễ bị nhiễm bệnh này.37
+* Bệnh thối rễ: Gây ra bởi nấm Pythium complectens.25 Nấm này tấn công vào chóp rễ nhánh, làm cho các nhánh thân non chết dần, và cây có thể chết đột ngột.25 Bệnh thường phát sinh và gây hại trên các vườn cây bị ngập úng, thoát nước kém, và lây lan chủ yếu qua nguồn nước.25
+* Sâu đục trái: Loại sâu này gây hại trực tiếp lên trái sầu riêng, làm trái bị hư hại và rụng sớm, ảnh hưởng nghiêm trọng đến sản lượng thu hoạch.35
+* Rệp sáp: Rệp sáp gây hại bằng cách hút nhựa cây trên trái, cành và lá.25 Sự lây lan của rệp sáp thường được hỗ trợ bởi kiến, chúng có thể tha rệp từ dưới gốc lên cây hoặc từ cây này sang cây khác.38
+* Bệnh thán thư: Do nấm Colletotrichum zibethinum gây ra.25 Bệnh thường bắt đầu từ bìa hoặc chóp lá, lan vào làm lá cháy thành từng mảng lớn, có màu nâu đỏ và hình thành những vùng đồng tâm màu nâu sẫm.25 Nếu bệnh nặng, lá sẽ khô cháy, làm cây con kém phát triển.25 Bệnh phát sinh và lây lan mạnh trên cây con ở giai đoạn vườn ươm, đặc biệt vào đầu mùa mưa và các tháng có sương mù.25
+* Sâu ăn bông: Sâu ăn bông (Thalassodes falsaria) là loài bướm màu vàng nhạt khi trưởng thành, và sâu non là sâu róm có nhiều lông.25 Sâu tấn công hoa nở, ăn trụi các cánh hoa làm hoa bị rụng.25 Chúng gây hại nặng nhất ở tuổi 3 và có thể tấn công từ khi bông mới nhú cho đến giai đoạn đậu trái.25
+5.2. Biện pháp phòng trị
+Để phòng trừ hiệu quả các loại sâu bệnh hại sầu riêng, cần áp dụng tổng hợp các biện pháp canh tác, sinh học và hóa học.
+Biện pháp canh tác:
+* Vệ sinh vườn: Thường xuyên thăm vườn, dọn sạch cỏ rác, lá cây mục, tàn dư thực vật. Thu gom cành lá, quả rụng và các trái bị bệnh để tiêu hủy, ngăn chặn nguồn lây lan mầm bệnh.21
+* Mật độ trồng và tạo tán: Trồng cây với mật độ hợp lý (ví dụ 8-10m) để vườn luôn thông thoáng, có đủ ánh nắng, từ đó giảm áp lực phát sinh bệnh.20 Cắt tỉa bỏ các cành bị sâu bệnh, cành yếu, hoặc cành mọc khuất trong tán để tăng cường lưu thông không khí và ánh sáng.17
+* Quản lý nước: Đảm bảo hệ thống thoát nước tốt trong mùa mưa, không để nước ứ đọng lâu ngày ở gốc cây.24 Đồng thời, tưới đủ nước, tránh để đất quá khô, đặc biệt trong giai đoạn ra bông và trái non để hạn chế sự phát triển của rệp sáp.38
+* Quản lý dinh dưỡng: Bón phân đầy đủ và cân đối NPK, tăng cường sử dụng phân hữu cơ để giúp cây phát triển khỏe mạnh, từ đó tăng sức đề kháng tự nhiên chống lại mầm bệnh.25 Bón vôi cũng là biện pháp hữu hiệu để nâng độ pH vùng rễ (lên mức 5.5-6.5), giúp ức chế sự phát triển của một số loại nấm bệnh.25
+* Diệt kiến: Tiến hành diệt kiến trong vườn để hạn chế chúng tha rệp sáp từ dưới gốc lên cây và từ cây này sang cây khác.38
+* Bao trái: Sử dụng túi chuyên dụng hoặc túi nilon để bao trái sầu riêng, đây là biện pháp vật lý hiệu quả ngăn chặn sâu đục trái tấn công.34
+* Tỉa bớt trái: Đối với những chùm có quá nhiều trái, cần chủ động tỉa bớt để vừa giúp cây đạt năng suất tối ưu vừa hạn chế sự phát triển của sâu đục trái.17
+Biện pháp sinh học:
+* Bảo vệ thiên địch: Khuyến khích và bảo vệ các loài thiên địch tự nhiên của rệp sáp như nhện, ong, bọ rùa.38 Đối với sâu đục trái, các loài thiên địch như kiến sư tử, chim sâu, bọ ngựa, nhện ăn thịt có vai trò quan trọng trong việc kiểm soát quần thể sâu hại.34
+* Sử dụng vi sinh vật: Sử dụng vi khuẩn Bacillus thuringiensis (Bt) để tiêu diệt sâu hại.43 Đối với bệnh thối rễ, các chế phẩm sinh học chứa nấm đối kháng Trichoderma spp có thể được sử dụng để phòng trừ và phục hồi bộ rễ bị tổn thương.25
+Biện pháp hóa học:
+* Nguyên tắc chung: Việc sử dụng thuốc bảo vệ thực vật cần được thực hiện một cách cẩn trọng, chỉ khi thật sự cần thiết và tuân thủ chặt chẽ hướng dẫn sử dụng, liều lượng ghi trên nhãn sản phẩm, cùng với nguyên tắc 4 đúng (đúng thuốc, đúng liều lượng, đúng lúc, đúng cách).25 Ưu tiên sử dụng các loại thuốc có nguồn gốc sinh học hoặc ít độc hại để giảm thiểu tác động tiêu cực đến môi trường và sức khỏe con người.35
+* Bệnh xì mủ:
+   * Phòng ngừa: Phun thuốc phòng ngừa vào đầu mùa mưa như Alimet 800WG (hoạt chất Fosetyl-Al) với liều lượng 420g/220 lít nước tưới cho khoảng 5-8 cây.36 Xử lý vôi bột xung quanh gốc sau thu hoạch cũng giúp sát khuẩn.36
+   * Trị bệnh: Đối với bệnh nhẹ, có thể phun thuốc đặc trị như Alimet 800WG kết hợp Thần Y 722SL.36 Đối với cây bị bệnh nặng, cần cạo bỏ toàn bộ phần vỏ và gỗ bị nhiễm bệnh (phần biến màu). Sau đó, quét thuốc Rorigold 720WP (hoạt chất Metalaxyl-M + Mancozeb) hoặc hỗn hợp Thần Y 722SL + Alimet 800WG + Lân 2 chiều Pk 28-22 lên vết bệnh đã cạo, đồng thời kết hợp phun toàn cây và tưới gốc để phòng ngừa lây lan.5
+* Bệnh thối rễ:
+   * Trị bệnh: Cắt và đốt tiêu hủy các phần rễ bị nhiễm bệnh. Sử dụng các loại thuốc chứa hoạt chất Streptomyces lydicus WYEC 108 (Actinovate 1 SP), Streptomyces lydicus WYEC + Fe + Humic acid (Actino – Iron 1.3 SP), hoặc Trichoderma spp (Vi – ĐK 109 bào tử/g).25 Sau giai đoạn hạn mặn, việc tưới bộ dưỡng rễ và nấm đối kháng Trichoderma là rất cần thiết để phục hồi và bảo vệ bộ rễ bị tổn thương.30
+* Sâu đục trái: Có thể sử dụng thuốc trừ sâu chứa hoạt chất Abamectin, Fipronil.43
+* Rệp sáp:
+   * Đối với kiến: Rải hoặc tưới gốc các loại thuốc có hoạt chất Fipronil, Carbonsufan, Thiamethoxam.38
+   * Đối với rệp sáp: Tưới thuốc dưới gốc và phun lên cây các thuốc đặc trị rầy như Imidachloprid (Anvado 700WG) hoặc Acetamiprid (Ba Đăng 500WP). Nên kết hợp thêm DẦU KHOÁNG hoặc CHẤT BÁM DÍNH để tăng hiệu quả phòng trị.38 Trong giai đoạn cây đang xổ nhụy hoặc trái non, cần ưu tiên sử dụng các thuốc sinh học hoặc thuốc có tính mát để tránh ảnh hưởng đến bông và trái non, ví dụ như Abamectin (Reasgant 3.6EC, Honest 54EC), Emamectin (Tasieu 1.9EC, Bemab 3.8EC).38
+* Bệnh thán thư: Có thể sử dụng thuốc chứa hoạt chất Azoxystrobin + Difenoconazole (Dovatop 400SC) và Propineb (Dovatracol 72WP).25
+* Sâu ăn bông: Các hoạt chất như Cypermethrin + Quinalphos (Tungrell 25 EC) hoặc Abamectin (Bamectin 1.8 EC, 5.55EC, 22.2WG) có thể được xem xét.25
+* Lưu ý: Cần thử nghiệm thuốc trên diện tích nhỏ trước khi áp dụng rộng rãi để đảm bảo không ảnh hưởng xấu đến cây trồng.25 Đồng thời, cần lưu ý các quy định về việc cấm hoặc hạn chế sử dụng một số hoạt chất hóa học theo thời gian (ví dụ: Carbendazim, Benomyl, Thiophanate Methyl đã bị cấm từ 03/01/2019; 2,4 D; Paraquat từ 08/02/2019).25
+Mặc dù có các biện pháp hóa học được đề xuất, nhưng có những khoảng trống trong danh mục thuốc được phép sử dụng chính thức cho sầu riêng ở Việt Nam đối với một số loại sâu bệnh. Đồng thời, các quy định về sử dụng thuốc bảo vệ thực vật đang thay đổi và siết chặt. Điều này đặt ra thách thức lớn cho nông dân và yêu cầu các cơ quan nghiên cứu và quản lý cần liên tục cập nhật, nghiên cứu và cấp phép các loại thuốc mới, an toàn và hiệu quả hơn, đặc biệt là các giải pháp sinh học. Nông dân cần chủ động tìm hiểu và tuân thủ chặt chẽ các quy định về thuốc bảo vệ thực vật để đảm bảo an toàn sản phẩm và khả năng xuất khẩu.
+6. CHU KỲ SINH TRƯỞNG
+Cây sầu riêng là cây ăn quả lâu năm với chu kỳ sinh trưởng phức tạp, đòi hỏi sự chăm sóc đặc thù theo từng giai đoạn để đạt năng suất và chất lượng tối ưu.32 Chu kỳ sinh trưởng không chỉ là một quá trình tự nhiên mà còn là một khuôn khổ quản lý. Nắm vững chu kỳ này cho phép nông dân tối ưu hóa việc sử dụng tài nguyên (nước, phân bón), giảm thiểu rủi ro (rụng hoa, rụng trái non) và nâng cao hiệu quả sản xuất. Việc áp dụng các kỹ thuật chăm sóc "đúng giai đoạn" là nền tảng của nông nghiệp chính xác trong canh tác sầu riêng, giúp đạt được năng suất và chất lượng cao nhất một cách bền vững.
+6.1. Các giai đoạn sinh trưởng
+Chu kỳ sinh trưởng của cây sầu riêng có thể được chia thành các giai đoạn chính như sau:
+* Giai đoạn nảy mầm (0 – 1 tháng): Sau khi gieo trồng, hạt sầu riêng sẽ nảy mầm trong vòng 1-2 tuần, vỏ hạt nứt ra và bắt đầu hình thành mầm non.1 Trong giai đoạn này, cây con rất non yếu, cần được che bóng và tưới nước thường xuyên để duy trì độ ẩm cho đất, đồng thời hạn chế sự phát triển của cỏ dại, giúp cây con phát triển tốt và tránh ánh nắng mặt trời gay gắt.1
+* Giai đoạn cây con (3 – 6 tháng sau trồng): Giai đoạn này được tính từ lúc cây con được trồng xuống đất, khi bộ rễ bắt đầu phát triển và cây ra lá non.32 Cây sầu riêng thường được nhân giống vô tính bằng phương pháp ghép mắt hoặc ghép cành, và sẵn sàng xuất vườn khi lá ngọn đã trưởng thành, xanh tốt, và cây đã được huấn luyện để thích nghi hoàn toàn với ánh sáng (thường là 5-7 tháng tuổi sau ghép).32 Trong suốt thời gian này, cây sầu riêng cần được tưới nước đều đặn, bón phân đầy đủ và bảo vệ khỏi sâu bệnh hại.32
+* Giai đoạn phát triển cây / Kiến thiết cơ bản (1 – 3 năm, kéo dài đến hết năm thứ 4): Đây là giai đoạn cực kỳ quan trọng để xây dựng nền tảng cho cây. Cây sầu riêng tập trung phát triển mạnh mẽ về rễ, thân và cành, tạo nên một bộ khung vững chắc cho việc ra hoa và kết trái sau này.1 Để thúc đẩy sự phát triển này, cây cần được cung cấp đầy đủ các chất dinh dưỡng và tưới nước đều đặn mỗi ngày.1 Việc cắt tỉa cành và tạo tán thông thoáng cũng là cần thiết để cây hấp thụ ánh sáng tốt hơn và hạn chế sâu bệnh.1 Trong giai đoạn này, cây vẫn có đặc tính sinh trưởng như một cây ưa bóng, do đó không cần quá nhiều ánh sáng trực tiếp.17
+* Giai đoạn ra hoa (3-5 năm tuổi, kéo dài khoảng 1 tháng): Cây sầu riêng thường bắt đầu ra hoa từ năm thứ 3-4 sau khi trồng.1 Để kích thích ra hoa, cây cần trải qua một giai đoạn khô hạn kéo dài khoảng 3-4 tuần.32 Hoa sầu riêng thường nở vào ban đêm và có mùi thơm đặc trưng.32 Trong giai đoạn này, cây cần một lượng dinh dưỡng lớn để hình thành hạt phấn và chuẩn bị tốt cho quá trình kết quả.32 Sầu riêng là cây thụ phấn chéo, do đó cần có sự hỗ trợ của các loài côn trùng như ong, bướm để thụ phấn.1 Để nâng cao tỷ lệ đậu quả, việc tạo môi trường thuận lợi cho côn trùng phát triển trong vườn và thực hiện thụ phấn nhân tạo là rất quan trọng.1
+* Giai đoạn đậu trái và phát triển trái (4-5 tháng): Sau khi hoa sầu riêng đã thụ phấn thành công, chúng sẽ phát triển thành trái.32 Đây là giai đoạn cực kỳ quan trọng, ảnh hưởng trực tiếp đến kích thước, chất lượng và năng suất của quả.1 Hiện tượng rụng hoa và rụng trái non rất phổ biến trong giai đoạn này, do đó, bà con cần đặc biệt chú ý đến chế độ dinh dưỡng, bổ sung đủ chất cho cây trồng và xử lý sớm khi có sự biến động bất thường của thời tiết.32 Quả sầu riêng cần được tưới nước đầy đủ và bón bổ sung kali để giúp quả to, ngon, cơm dày và hạt lép.1
+* Giai đoạn chín quả (90-120 ngày tuổi): Trái sầu riêng bắt đầu chín khi đạt khoảng 90-120 ngày tuổi kể từ khi đậu trái.32 Các dấu hiệu nhận biết quả chín bao gồm vỏ chuyển sang màu xanh vàng, gai nở to và có mùi thơm đặc trưng.1 Khi gõ nhẹ vào vỏ quả, sẽ nghe thấy tiếng “bộp bộp” thay vì tiếng “cạch cạch” khi quả còn xanh.1 Gai của sầu riêng chín già thường to, cứng nhưng đầu gai hơi tròn chứ không nhọn và nhỏ.32
+* Giai đoạn thu hoạch và tái tạo (10 năm trở lên): Cây sầu riêng có thể cho thu hoạch trong nhiều năm, trung bình khoảng 25 năm, nếu được chăm sóc tốt và điều kiện môi trường thuận lợi.1 Sau khi thu hoạch, cây thường bị mất sức do đã dồn năng lượng nuôi trái. Do đó, cần tiến hành cắt tỉa các cành khô, cành bị sâu bệnh, và loại bỏ các cuống quả thừa.17 Đồng thời, việc bón phân và tưới nước đầy đủ là cần thiết để giúp cây phục hồi sức khỏe, chuẩn bị cho vụ mùa tiếp theo.1
+Bảng 3: Chu kỳ sinh trưởng của cây sầu riêng và thời gian ước tính
+Giai đoạn sinh trưởng
+	Thời gian ước tính
+	Đặc điểm chính
+	Hoạt động chăm sóc chính
+	Nảy mầm
+	0 – 1 tháng
+	Hạt nứt vỏ, hình thành mầm non.
+	Che bóng, tưới nước thường xuyên, hạn chế cỏ dại.
+	Cây con
+	3 – 6 tháng sau trồng
+	Rễ phát triển, ra lá non, cây non yếu.
+	Tưới nước đều đặn, bón phân đầy đủ, bảo vệ khỏi sâu bệnh.
+	Kiến thiết cơ bản / Phát triển cây
+	1 – 3 năm (đến hết năm thứ 4)
+	Phát triển mạnh rễ, thân, cành, tạo bộ khung.
+	Cung cấp đủ dinh dưỡng, tưới nước đều đặn, cắt tỉa tạo tán.
+	Ra hoa
+	Khoảng 1 tháng (sau 3-5 năm tuổi)
+	Xuất hiện mầm hoa, hoa nở ban đêm, cần khô hạn.
+	Cung cấp dinh dưỡng cho hạt phấn, tạo môi trường cho côn trùng thụ phấn, thụ phấn nhân tạo.
+	Đậu trái và phát triển trái
+	4 – 5 tháng
+	Hoa thụ phấn thành trái, trái hình thành và lớn dần.
+	Chú ý dinh dưỡng, tưới nước đủ, bổ sung Kali, xử lý rụng trái non.
+	Chín quả
+	90 – 120 ngày tuổi
+	Vỏ xanh vàng, gai nở to, có mùi thơm đặc trưng, tiếng "bộp bộp" khi gõ.
+	Đảm bảo đủ nước và Kali để quả đạt chất lượng tối ưu.
+	Thu hoạch và tái tạo
+	10 năm trở lên (trung bình 25 năm)
+	Cây cho trái, sau thu hoạch cần phục hồi sức.
+	Cắt tỉa cành khô, sâu bệnh, bón phân và tưới nước phục hồi.
+	7. LƯU Ý ĐẶC BIỆT
+Ngoài các kỹ thuật canh tác cơ bản, việc quản lý các yếu tố ngoại cảnh và đáp ứng yêu cầu thị trường là những lưu ý đặc biệt quan trọng, ảnh hưởng trực tiếp đến năng suất và khả năng cạnh tranh của sầu riêng Việt Nam. Nông dân và doanh nghiệp Việt Nam đối mặt với một thách thức kép: không chỉ phải thích nghi và giảm thiểu tác động của biến đổi khí hậu lên sản xuất mà còn phải nâng cao chất lượng sản phẩm để đáp ứng các tiêu chuẩn ngày càng cao của thị trường quốc tế. Điều này đòi hỏi một cách tiếp cận toàn diện và chiến lược, bao gồm đầu tư vào nghiên cứu giống chịu đựng tốt hơn, phát triển hạ tầng chống chịu biến đổi khí hậu (hệ thống thoát nước, tích trữ nước ngọt), áp dụng các quy trình canh tác tiên tiến (VietGAP, GlobalGAP) và xây dựng chuỗi cung ứng có khả năng truy xuất nguồn gốc minh bạch. Sự thành công trong xuất khẩu sầu riêng phụ thuộc vào khả năng quản lý đồng thời cả rủi ro tự nhiên và yêu cầu thị trường.
+7.1. Các vấn đề ảnh hưởng đến năng suất
+Thời tiết cực đoan (Lạnh):
+Nhiệt độ thấp, đặc biệt dưới 20°C, có thể gây ra nhiều ảnh hưởng tiêu cực đến cây sầu riêng.18 Nhiệt độ lạnh ức chế quá trình chuyển hóa năng lượng và các phản ứng sinh lý trong cây, làm giảm khả năng chuyển hóa dưỡng chất cần thiết cho sự phát triển mầm hoa, dẫn đến việc giảm khả năng ra hoa của cây.18 Hoạt động của các enzym sinh học cũng bị suy giảm, ảnh hưởng đến sinh trưởng và phát triển của mô hoa, có thể làm quá trình ra hoa bị trì hoãn, giảm số lượng hoa hoặc thậm chí không có hoa.18 Trong giai đoạn tạo mầm hoa, cây cần lượng năng lượng lớn, nhưng nhiệt độ thấp làm suy giảm quang hợp, khiến cây không tạo đủ năng lượng để nuôi dưỡng mầm hoa, dẫn đến mầm hoa yếu, không đồng đều hoặc không hình thành.18 Lạnh cũng gây rối loạn điều hòa hormone ra hoa, khiến cây không ra hoa đúng thời điểm, hoa ra không đều, hoặc hoa bị hư hại, rụng, và chất lượng hạt phấn giảm, dẫn đến tỷ lệ thụ phấn thấp.18 Nếu thụ phấn không xảy ra, hoa không thể đậu quả, ảnh hưởng trực tiếp đến năng suất thu hoạch.18 Ngoài ra, nhiệt độ lạnh còn làm giảm hoạt động của rễ cây, khiến cây không hấp thụ đủ dưỡng chất từ đất, ảnh hưởng đến sự hình thành mầm hoa khỏe mạnh và sự phát triển của quả.18
+Để khắc phục, cần áp dụng các biện pháp như che chắn cho cây, bón phân hợp lý (đặc biệt là Phốt pho, Kali, Canxi, Silic, Kẽm, Mangan), tưới nước hợp lý vào buổi sáng để cây hấp thụ nước và dinh dưỡng mà không gây đóng băng vào ban đêm, và cắt tỉa cành để cây thông thoáng, tập trung năng lượng vào ra hoa.18
+Ngập úng:
+Ngập úng là một vấn đề nghiêm trọng đối với sầu riêng, đặc biệt trong mùa mưa. Khi đất bị ngập nước, các lỗ khí trong đất bị lấp đầy, làm giảm oxy cung cấp cho rễ cây.27 Tình trạng thiếu oxy này khiến cây phát triển chậm lại hoặc ngừng phát triển, không thể hút đủ nước và dinh dưỡng từ đất, dẫn đến lá cây héo úa và vàng úa.27 Môi trường thiếu oxy còn sản sinh ra các hợp chất độc hại như CO2, khí sulfur và methane, gây ảnh hưởng nghiêm trọng đến sức khỏe cây.27 Nếu ngập úng kéo dài chỉ 1-2 ngày, phần đầu rễ sẽ bắt đầu chết, và thiệt hại sẽ lớn hơn nếu cây bị ngập trong nước tù so với nước chảy.27 Ngập úng cũng là điều kiện thuận lợi cho bệnh thối rễ phát triển.25
+Các biện pháp khắc phục khẩn cấp bao gồm rút nước nhanh chóng ngay khi nước bắt đầu rút, xịt rửa bùn bám trên cây và cổ rễ. Cần kiểm tra kỹ các mương, rãnh thoát nước trong vườn để đảm bảo không có khu vực bị tắc nghẽn, và đào rãnh sâu hơn hoặc sử dụng máy bơm để hút nước ra khỏi vườn nếu cần.27 Về lâu dài, cần thiết kế vườn với hệ thống thoát nước tốt, bao gồm các mương, rãnh rộng và sâu, đảm bảo không có khu vực nước đọng lại lâu.27 Tăng cường thông thoáng trong vườn bằng cách cắt tỉa bớt cành nhánh dày đặc cũng giúp giảm độ ẩm và hạn chế sự phát triển của nấm bệnh.27 Sau khi nước rút, việc phòng ngừa bệnh thối rễ là rất quan trọng (ví dụ bằng Copper Nano Đồng hữu cơ + Tinh Vôi Master) và bổ sung phân hữu cơ (Super Strong + Tano 01) để cải thiện chất lượng đất, giúp cây phục hồi nhanh chóng.27
+Hạn mặn:
+Xâm nhập mặn là sự tích tụ quá nhiều muối hòa tan trong đất, xảy ra khi nước biển xâm nhập trực tiếp vào đất liền do triều cường, nước biển dâng hoặc cạn kiệt nguồn nước ngọt.31 Sầu riêng là loại cây ăn trái rất mẫn cảm với điều kiện mặn, với ngưỡng chịu đựng chỉ từ 0.2-0.4‰, và tuyệt đối không được tưới khi độ mặn trên 0.4‰.30
+Khi bị nhiễm mặn, rễ cây không thể hút được nước và dinh dưỡng, các quá trình sinh lý trong cây bị rối loạn, và sinh trưởng của cây bị ức chế.30 Trong trường hợp nặng, cây có thể bị "sốc mặn", cháy rễ, héo lá hàng loạt, cháy lá, rụng lá, rụng bông, rụng trái non.30 Hạn mặn cũng làm giảm hàm lượng diệp lục tố, ngược lại gia tăng hàm lượng Natri và Clo trong lá, dẫn đến khô cành và khô lá.31 Điều này gây cháy và rụng hoa, tỉ lệ đậu quả thấp, và chất lượng quả kém do bộ rễ bị hư hại, không hấp thu đủ dinh dưỡng.31
+Các biện pháp phòng chống và khắc phục bao gồm: Kiểm tra độ mặn của nước tưới bằng dụng cụ chuyên dụng trước khi sử dụng.30 Thực hiện tích trữ nước ngọt và tiết kiệm nước.30 Thiết lập hệ thống tưới tiết kiệm, béc phun để sử dụng nước hiệu quả.30 Tủ gốc bằng cỏ khô, rơm rạ, lục bình để giữ ẩm cho đất, kéo dài thời gian tưới và hạn chế sốc nhiệt.30 Không nên xử lý cây ra hoa trong giai đoạn hạn mặn nếu nguồn nước tưới không đảm bảo cung cấp đầy đủ cho giai đoạn đậu trái.30 Quản lý lượng bông hoặc trái vừa phải để cây đủ sức chống chịu điều kiện khắc nghiệt.30 Chủ động bón phân hữu cơ vi sinh, sinh học có bổ sung chất điều hòa độ ẩm và giữ ẩm trước khi mùa hạn mặn bắt đầu.30 Lắp đặt hệ thống lọc nước nhiễm mặn cũng là một giải pháp dài hạn.31 Sau khi hạn mặn qua đi, cần sử dụng nguồn nước ngọt để tưới nhằm rửa trôi lượng muối đã tích tụ trong đất, đồng thời bón vôi, lân, kali, phân hữu cơ, hữu cơ vi sinh, sinh học.30 Tưới bộ dưỡng rễ và nấm đối kháng Trichoderma để phục hồi và bảo vệ bộ rễ bị tổn thương.30 Phun phân bón lá chứa vi lượng, silic, magie, canxi, kali và hoạt chất Brassinosteroid để tăng sức đề kháng cho cây.30 Đặc biệt, trên chân đất nhiễm mặn và có phèn, nên bón vôi nung CaO và tránh bón các loại phân chua như super Lân, DAP, KCl vì sẽ làm đất càng chua thêm.30
+7.2. Kỹ thuật xử lý ra hoa nghịch vụ
+Kỹ thuật xử lý ra hoa nghịch vụ là một chiến lược quan trọng trong canh tác sầu riêng, cho phép nhà vườn điều tiết nguồn cung, tránh tình trạng "được mùa mất giá" và tối đa hóa lợi nhuận do có thể bán sầu riêng vào đầu mùa hoặc nghịch vụ khi thị trường thiếu hụt nguồn cung.2 Điều này thúc đẩy sự phát triển của nông nghiệp thông minh và linh hoạt, nơi việc quản lý chu kỳ sinh trưởng của cây được điều chỉnh theo nhu cầu thị trường. Tuy nhiên, việc áp dụng kỹ thuật này cũng đòi hỏi kiến thức chuyên sâu, khả năng kiểm soát điều kiện môi trường (như xiết nước, đậy mủ) và quản lý dinh dưỡng chặt chẽ để đảm bảo sức khỏe cây và chất lượng quả.
+Quy trình 7 bước xử lý ra hoa nghịch vụ (có sử dụng Paclobutrazol):
+1. Bón lân gốc: Khoảng 3-4 kg lân cho cây 4 năm tuổi, bón vào khu vực dưới tán, phạm vi 2/3 tán (tính từ gốc ra ngoài). Trước khi bón lân, cần dọn sạch cỏ khu vực dưới tán.39
+2. Phun chất tạo mầm lần 1: Phun đều mặt lá và thân cành.39
+3. Phủ bạt nilong (Đậy mủ): Thực hiện khi cây có dấu hiệu nhú mắt cua (mầm hoa). Đậy kín gốc, không để nước dính vào gốc. Lưu ý quan trọng là tuyệt đối không đậy khi cây bị khô, vì nếu cây khô gốc và thiếu nước sẽ không hấp thu được Paclobutrazol.39
+4. Phun Paclobutrazol (PACLO – Kihora 15WP): Phun càng sớm càng tốt sau khi đậy mủ. Phun kỹ vào dạ dưới cành, thân và mặt dưới lá. Sau khi phun Paclo, cần cắt nước và rút nước trong mương ra để tạo điều kiện khô hạn cho cây. Chỉ nên phun Paclo một lần trong một mùa và chỉ áp dụng đối với cây sầu riêng khỏe mạnh, vì phun quá nhiều lần hoặc quá liều có thể gây ngộ độc và dễ làm cây chết.39
+5. Tạo mầm sau khi phun Paclobutrazol: Nếu cây chưa thấy dấu hiệu mầm hoa rõ ràng, tiến hành tạo mầm lần 2 hoặc lần 3, mỗi lần cách nhau 7-10 ngày, vẫn duy trì tưới nước bình thường cho cây.39
+6. Dỡ bạt, nhấp nhẹ nước lại: Khi khoảng 70-80% mắt cua sáng rõ (đối với giống Ri6). Xới nhẹ bề mặt đất và tưới nhấp nước (lượng ít, khoảng 20-30% lượng nước bình thường), sau đó tăng dần lượng nước. Tránh tưới sớm khi mắt cua chưa sáng rõ vì có thể dẫn đến nghẽn bông, mắt cua bị đen trở lại hoặc ra bông phướn (bông lá).39
+7. Kéo bông: Tiếp tục chăm sóc để bông phát triển khỏe mạnh.
+Quy trình không dùng Paclobutrazol (tham khảo):
+Một số quy trình khác không sử dụng Paclobutrazol cũng được áp dụng.
+* Kéo đọt: Phun hỗn hợp Nano Black + Top One kéo đọt + Dr Xanh (có thể kết hợp thuốc rầy), phun 2 cử cách nhau 7 ngày. Sau khi bộ lá chuyển lụa đều, bấm bỏ cành tăm và dọn gốc sạch sẽ trước khi làm bông.40
+* Dọn gốc, tẩy rong thân: Dọn gốc sạch sẽ giúp cây hấp thụ dinh dưỡng hiệu quả hơn và kiểm soát độ ẩm tốt hơn, đồng thời tẩy sạch rong rêu trên thân để ngăn chặn mầm bệnh.40
+* Rải lân tạo mầm: Sử dụng Bosa Top + Lân tạo mầm 52% để giúp già lá, chống đi đọt và phân hóa mầm hoa trong điều kiện thời tiết không thuận lợi. Có thể rải Kali trắng bổ sung sau 5 ngày tùy tuổi cây.40
+* Xiết nước đậy mủ: Để tạo độ khô hạn kích thích ra hoa, tiến hành xiết nước và đậy mủ sau khi bón phân, trong khoảng 5-7 ngày.40
+* Chỉnh cơi lụa và phun tạo mầm: Phối hợp Kali Hữu cơ (Platium) + Compact Lân xanh phun đều tán lá để chỉnh cơi lụa và giúp lá xanh, dày. Sau 7 ngày, tiến hành phun tạo mầm nhiều cử với các công thức phân bón lá chuyên biệt.40
+* Kích bông và phân hóa mầm hoa: Bổ sung thêm hữu cơ khoáng Super Strong và bón NPK 20-10-10 hoặc 16-16-8 để cây giữ trạng thái khỏe mạnh trong thời điểm kích bông ra hoa.40
+* Phun phòng nấm bệnh và dưỡng bông: Sau khoảng 20 ngày cắt nước tạo khô hạn, khi cây ra mắt cua đều 30%, là thời điểm nấm bệnh phát triển do cây suy yếu. Tưới gốc bằng Copper Nano Đồng hữu cơ + Tinh Vôi Master để phòng trừ nấm bệnh. Sau đó, phun Canxi Bo sữa + Nano Black + Xanh số 1 để giúp mập bông, mập cuống.40
+Phòng ngừa sâu bệnh trong giai đoạn xử lý ra hoa:
+Trong giai đoạn nhạy cảm này, cần thường xuyên kiểm tra cây để phát hiện sớm các dấu hiệu sâu bệnh. Sử dụng thuốc bảo vệ thực vật an toàn và hiệu quả khi cần thiết. Dọn sạch cỏ và lá rụng dưới gốc cây để giảm nguy cơ nhiễm bệnh, và phun thuốc phòng bệnh định kỳ theo lịch để ngăn ngừa sự lây lan của sâu bệnh.39
+7.3. Yêu cầu chất lượng sầu riêng cho xuất khẩu
+Để sầu riêng Việt Nam thâm nhập và duy trì thị trường xuất khẩu, việc đáp ứng các tiêu chuẩn chất lượng nghiêm ngặt là bắt buộc.
+Thị trường Trung Quốc:
+* Đăng ký và truy xuất nguồn gốc: Tất cả các vùng trồng và cơ sở đóng gói sầu riêng tươi xuất khẩu phải được đăng ký với Bộ Nông nghiệp và Phát triển nông thôn (MARD) của Việt Nam và được Tổng cục Hải quan Trung Quốc (GACC) phê duyệt.45 Thông tin đăng ký phải bao gồm tên, địa chỉ và mã số để đảm bảo khả năng truy xuất nguồn gốc chính xác khi phát hiện sản phẩm không tuân thủ.45 Các vùng trồng cần xây dựng hệ thống quản lý chất lượng, truy xuất nguồn gốc, thực hành nông nghiệp tốt (GAP), và quản lý dịch hại tổng hợp (IPM).45
+* Kiểm dịch thực vật: Sầu riêng phải không nhiễm sâu bệnh, đặc biệt là các loại côn trùng kiểm dịch mà Trung Quốc quan tâm như ruồi đục quả.46
+* Chất lượng quả:
+   * Trọng lượng: Quả loại 1 có trọng lượng từ 1.8 – 5.5 kg.48 Quả loại 2 bao gồm những quả không đạt tiêu chí loại 1 (nhỏ hơn 1.8 kg hoặc lớn hơn 5.5 kg), hoặc có trọng lượng đạt loại 1 nhưng không đủ 2.5 hộc hoặc bị dị dạng.48
+   * Độ ngọt (Brix): Các giống phổ biến có yêu cầu độ Brix khác nhau: Ri6 từ 19-21% Brix; Chuồng bò từ 21-23% Brix; Monthong từ 20-23% Brix.49 Sầu riêng càng ngọt thì cơm càng xốp và bột, và bền lâu không bị chua, nhão.50
+   * Màu sắc cơm: Cơm sầu riêng khi chín đạt chuẩn xuất khẩu thường có màu vàng đặc trưng, múi ráo không quá mềm, vị ngọt thanh và béo, mùi thơm đặc trưng rõ rệt.51 Cơm màu vàng sữa nhạt, chưa ngọt, chưa rõ mùi thơm khi quả khoảng 7-7.5 tuổi là đủ tuổi để xuất khẩu.51 Ri6 có cơm vàng đậm, trong khi Monthong có màu vàng nhạt hơn.52
+   * Độ khô ráo cơm: Cơm sầu riêng phải khô ráo và dày.7 Cần tránh hiện tượng sượng cơm (cơm trắng, cứng, nhão, lạt, cháy múi) do rối loạn sinh lý, thiếu khoáng chất (Canxi, Magiê, Bo) hoặc bón phân chứa gốc Chlor (KCl).12
+   * Hình dáng: Quả phải đồng đều, không méo mó.54
+   * Mùi hương: Sầu riêng chín cây tự nhiên có mùi thơm nồng nàn, vị ngọt đậm đà.54
+   * Cuống: Cuống quả phải tươi xanh, dẻo, và có nhựa khi bấm vào.54
+* Đóng gói và bảo quản:
+   * Cơ sở đóng gói sầu riêng tươi xuất khẩu phải có nền cứng, sạch sẽ, hợp vệ sinh, với khu chứa nguyên liệu và kho thành phẩm riêng biệt.45 Khu chế biến, xử lý, bảo quản và các khu chức năng phải được bố trí hợp lý và tách biệt với khu sinh hoạt.45
+   * Cơ sở đóng gói phải xây dựng hệ thống truy xuất nguồn gốc.45
+   * Vật liệu đóng gói phải sạch sẽ, vệ sinh, chưa qua sử dụng và tuân thủ các yêu cầu vệ sinh và sức khỏe cây trồng của Trung Quốc.45 Thùng carton cần đủ độ xốp để hạn chế va chạm, chắc chắn khi chồng xếp và thông thoáng để tránh sầu riêng bị ủ khí dễ hư hỏng.47
+   * Nhãn mác trên mỗi hộp phải ghi bằng tiếng Anh hoặc tiếng Trung, bao gồm tên loại hoa quả, nước xuất khẩu, địa điểm sản xuất, mã số vùng trồng, mã số cơ sở đóng gói, và dòng chữ “Exported to the People's Republic of China” hoặc “输往中华人民共和国”.45
+   * Container vận chuyển phải sạch, được niêm phong và đảm bảo nguyên vẹn đến cửa khẩu nhập khẩu của Trung Quốc.45
+   * Đối với sầu riêng đông lạnh, sản phẩm phải được xử lý ở nhiệt độ âm 18°C trong ít nhất 24 giờ trước khi xuất khẩu. Bao bì cần được đóng gói kín, chống rò rỉ và ghi rõ thông tin về nhà sản xuất, mã số cơ sở chế biến.58 Các cơ sở chế biến đông lạnh cũng cần được đăng ký mã GACC.58
+Thị trường Hàn Quốc:
+* Kiểm soát chất lượng: Sầu riêng Lâm Đồng xuất khẩu sang Hàn Quốc không được nhiễm chất cấm vàng O và Cadimi.59 Việc xuất khẩu sầu riêng phải chịu áp lực kiểm soát chất lượng chặt chẽ.59
+* Đóng gói và bảo quản: Sầu riêng cần được bảo quản trong kho mát ở nhiệt độ 7-8°C và độ ẩm 80-90%.60 Thời gian cho hàng vào kho mát không quá 24 giờ vào mùa hè và 36 tiếng vào mùa xuân.60 Nhiệt độ bảo quản chung cho sầu riêng xuất khẩu là từ 12 đến 15°C và độ ẩm từ 85% đến 90%.61
+* Tiêu chuẩn chung: Yêu cầu về độ chín (85-90% chín tự nhiên), hình dáng đồng đều, không méo mó (có thể chấp nhận một số khuyết điểm nhỏ), trọng lượng (loại 1 > 300g/quả), và chất lượng thịt quả (vàng, mịn, ngọt, ít xơ).55
+* Thủ tục: Doanh nghiệp cần có giấy chứng nhận kinh doanh, giấy chứng nhận cơ sở đủ điều kiện vệ sinh an toàn thực phẩm, kết quả kiểm nghiệm sản phẩm, tự công bố sản phẩm, giấy chứng nhận lưu hành tự do (CFS), và giấy chứng nhận y tế (Health certificate).47 Các chứng từ hải quan bao gồm hóa đơn thương mại, phiếu đóng gói hàng hóa, giấy giới thiệu, chứng nhận kiểm dịch thực vật (Phytosanitary Certificate), giấy hun trùng (Fumigation Certificate), giấy chứng nhận chất lượng hàng hóa (Certificate of Quality), và giấy chứng nhận xuất xứ hàng hóa (Certificate of Origin).47
+Bảng 4: Yêu cầu chất lượng sầu riêng xuất khẩu (Trung Quốc, Hàn Quốc)
+Tiêu chí chất lượng
+	Thị trường Trung Quốc
+	Thị trường Hàn Quốc
+	Đăng ký & Truy xuất nguồn gốc
+	Vùng trồng & cơ sở đóng gói phải đăng ký với MARD & GACC. Hệ thống quản lý chất lượng, truy xuất nguồn gốc, GAP, IPM tại vùng trồng.
+	Cần chứng nhận kinh doanh, cơ sở đủ điều kiện VSATTP, kiểm nghiệm sản phẩm, tự công bố sản phẩm, CFS, Health certificate.
+	Kiểm dịch thực vật
+	Không nhiễm sâu bệnh, đặc biệt ruồi đục quả.
+	Cần Phytosanitary Certificate.
+	Trọng lượng (quả tươi)
+	Loại 1: 1.8 – 5.5 kg. Loại 2: < 1.8 kg hoặc > 5.5 kg, hoặc không đủ 2.5 hộc/dị dạng.
+	Loại 1: > 300g/quả. Loại 2: 200-300g/quả.
+	Độ ngọt (Brix)
+	Ri6: 19-21%. Chuồng bò: 21-23%. Monthong: 20-23%.
+	Ri6: 30-32% (so sánh chung).
+	Màu sắc cơm
+	Vàng đặc trưng, vàng sữa nhạt (7-7.5 tuổi). Ri6 vàng đậm, Monthong vàng nhạt.
+	Vàng, mịn.
+	Độ khô ráo cơm
+	Khô ráo, dày. Tránh sượng (trắng, cứng, nhão, lạt, cháy múi).
+	Mịn, không xơ.
+	Hình dáng
+	Đồng đều, không méo mó.
+	Đồng đều, không méo mó (chấp nhận khuyết điểm nhỏ).
+	Mùi hương
+	Thơm nồng nàn (khi chín cây).
+	Không mùi lạ.
+	Độ tươi cuống
+	Tươi xanh, dẻo, có nhựa.
+	Không đề cập cụ thể.
+	Tỷ lệ hạt lép
+	Ri6: lên đến 40%. Musang King: trên 90%.
+	Không đề cập cụ thể.
+	Đóng gói
+	Nền cứng, sạch, khu riêng biệt. Vật liệu sạch, thông thoáng, chắc chắn. Nhãn tiếng Anh/Trung (tên, nước SX, mã vùng/cơ sở, "Exported to PRC"). Container sạch, niêm phong.
+	Thùng carton (3-5kg), thoáng khí. Nhãn mác rõ ràng.
+	Bảo quản
+	Sầu riêng tươi: Không đề cập cụ thể. Sầu riêng đông lạnh: -18°C ít nhất 24 giờ.
+	Kho mát 7-8°C, độ ẩm 80-90%. Thời gian vào kho mát < 24h (hè), < 36h (xuân).
+	KẾT LUẬN VÀ KHUYẾN NGHỊ
+Ngành sầu riêng Việt Nam đã và đang khẳng định vị thế quan trọng trong nền kinh tế nông nghiệp, với tiềm năng phát triển mạnh mẽ và giá trị xuất khẩu ngày càng tăng. Thành công này có được nhờ sự đa dạng về giống cây trồng, khả năng thích ứng với điều kiện thổ nhưỡng và khí hậu phong phú của các vùng miền, cùng với việc áp dụng các kỹ thuật canh tác ngày càng tiên tiến. Sự đa dạng hóa giống cây trồng và khả năng thích ứng thị trường, thể hiện qua việc trồng nhiều giống sầu riêng khác nhau với đặc điểm riêng biệt về hương vị, năng suất và thời gian thu hoạch, cho phép Việt Nam khai thác các phân khúc thị trường đa dạng, từ đó tối ưu hóa lợi nhuận.
+Tuy nhiên, ngành sầu riêng Việt Nam cũng đối mặt với nhiều thách thức đáng kể. Các vấn đề liên quan đến biến đổi khí hậu như hạn mặn, ngập úng và thời tiết lạnh cực đoan đang gây ra những ảnh hưởng trực tiếp và nghiêm trọng đến năng suất và chất lượng quả. Sầu riêng là cây trồng rất mẫn cảm với những thay đổi này, đòi hỏi các giải pháp thích ứng chủ động và dài hạn. Đồng thời, các yêu cầu ngày càng khắt khe từ các thị trường xuất khẩu lớn như Trung Quốc và Hàn Quốc về chất lượng sản phẩm, vệ sinh an toàn thực phẩm, và đặc biệt là khả năng truy xuất nguồn gốc, đang đặt ra áp lực lớn cho toàn bộ chuỗi giá trị. Một thách thức khác là sự thiếu hụt thông tin chi tiết và định lượng về khả năng kháng bệnh của một số giống sầu riêng phổ biến, điều này gây khó khăn cho nông dân trong việc lựa chọn giống và xây dựng chiến lược phòng trừ hiệu quả. Hơn nữa, mặc dù các biện pháp hóa học được sử dụng, nhưng vẫn tồn tại khoảng trống trong danh mục thuốc được phép sử dụng chính thức cho sầu riêng ở Việt Nam đối với một số loại sâu bệnh, cùng với các quy định về sử dụng thuốc bảo vệ thực vật đang thay đổi và siết chặt.
+Để nâng cao năng suất, chất lượng và tính bền vững của ngành sầu riêng Việt Nam trong bối cảnh hiện tại, cần tập trung vào các hướng nghiên cứu và phát triển sau:
+1. Nghiên cứu và phát triển giống: Đầu tư vào nghiên cứu chọn tạo các giống sầu riêng mới hoặc cải thiện các giống hiện có, tập trung vào khả năng chống chịu với các điều kiện thời tiết cực đoan (hạn mặn, ngập úng, lạnh) và khả năng kháng các loại sâu bệnh phổ biến. Đồng thời, cần có dữ liệu định lượng và chi tiết hơn về tính kháng bệnh của từng giống để hỗ trợ nông dân lựa chọn.
+2. Hoàn thiện kỹ thuật canh tác thích ứng: Phát triển và phổ biến các quy trình canh tác thông minh, chính xác, đặc biệt là các kỹ thuật quản lý nước (hệ thống tưới tiết kiệm, tích trữ nước ngọt, lọc nước nhiễm mặn, thiết kế vườn thoát nước hiệu quả), quản lý dinh dưỡng theo từng giai đoạn sinh trưởng, và kỹ thuật xử lý ra hoa nghịch vụ một cách bền vững.
+3. Tăng cường quản lý dịch hại tổng hợp (IPM): Thúc đẩy việc áp dụng rộng rãi các biện pháp IPM, ưu tiên các giải pháp canh tác và sinh học để giảm thiểu sự phụ thuộc vào hóa chất. Đồng thời, các cơ quan quản lý cần liên tục cập nhật, nghiên cứu và cấp phép các loại thuốc bảo vệ thực vật mới, an toàn và hiệu quả hơn, đặc biệt là các giải pháp sinh học, để lấp đầy khoảng trống trong danh mục thuốc.
+4. Nâng cao chất lượng và truy xuất nguồn gốc: Hỗ trợ nông dân và doanh nghiệp áp dụng các tiêu chuẩn canh tác quốc tế như VietGAP, GlobalGAP. Xây dựng và hoàn thiện hệ thống truy xuất nguồn gốc minh bạch từ vùng trồng đến cơ sở đóng gói, đáp ứng các yêu cầu khắt khe của thị trường nhập khẩu.
+5. Đào tạo và chuyển giao công nghệ: Tổ chức các chương trình đào tạo chuyên sâu cho nông dân và cán bộ kỹ thuật về sinh lý cây sầu riêng, các kỹ thuật canh tác tiên tiến, và quy định về chất lượng xuất khẩu.
+Tóm lại, sự phát triển bền vững của ngành sầu riêng Việt Nam đòi hỏi một cách tiếp cận toàn diện và chiến lược, bao gồm việc áp dụng khoa học kỹ thuật tiên tiến, quản lý tổng hợp trong toàn bộ chuỗi giá trị, và khả năng thích ứng linh hoạt với cả thách thức tự nhiên và yêu cầu thị trường.
+Nguồn trích dẫn
+1. Quá trình sinh trưởng của cây sầu riêng: Hành trình từ hạt giống đến ..., truy cập vào tháng 6 6, 2025, https://bio36chinhhang.com/qua-trinh-sinh-truong-cua-cay-sau-rieng-hanh-trinh-tu-hat-giong-den-trai-chin/
+2. 5 VÙNG SẢN XUẤT SẦU RIÊNG TRỌNG ĐIỂM Ở VIỆT NAM, truy cập vào tháng 6 6, 2025, https://thienhawto.com.vn/bai-viet/89/5-vung-san-xuat-sau-rieng-trong-diem-o-viet-nam
+3. Giống sầu riêng giá trị cao - Đặc điểm và cách lựa chọn - Netagro, truy cập vào tháng 6 6, 2025, https://netagro.vn/sau-rieng/giong-sau-rieng/
+4. NÊN LỰA CHỌN GIỐNG SẦU RIÊNG NÀO? ĐÁNH GIÁ ƯU NHƯỢC ĐIỂM CỦA, truy cập vào tháng 6 6, 2025, https://nongduocxanh.com.vn/kien-thuc-nong-nghiep/phan-canxi/nen-lua-chon-giong-sau-rieng-nao-danh-gia-uu-nhuoc-diem-cua-6-giong-pho-bien-hien-nay
+5. 4 Giống Sầu Riêng Được Ưa Chuộng Tại Việt Nam • Tin Cậy 2025, truy cập vào tháng 6 6, 2025, https://tincay.com/4-giong-sau-rieng-duoc-ua-chuong-tai-viet-nam/
+6. Cẩm Nang Cách Trồng Cây Sầu Riêng - Nhà Bè Agri, truy cập vào tháng 6 6, 2025, https://nhabeagri.com/cay-sau-rieng/
+7. Đặc sản trái sầu riêng Ri6 của Việt Nam - Bộ Công thương, truy cập vào tháng 6 6, 2025, https://moit.gov.vn/tu-hao-hang-viet-nam/dac-san-trai-sau-rieng-ri6-cua-viet-nam.html
+8. Quả sầu riêng Ri6 | Từ Nguồn gốc đến Chất lượng 2020 - VinFruits, truy cập vào tháng 6 6, 2025, https://vinfruits.com/sau-rieng-ri6-tu-nguon-goc-den-chat-luong
+9. Sầu riêng Ri6: Nguồn gốc, đặc điểm, cách nhận biết, truy cập vào tháng 6 6, 2025, https://banggianongsan.com/sau-rieng-ri6/
+10. MỘT SỐ GIỐNG SẦU RIÊNG PHỔ BIẾN TẠI VIỆT NAM VÀ ĐẶC TÍNH CỦA CHÚNG, truy cập vào tháng 6 6, 2025, https://phanbontuquy.vn/mot-so-giong-sau-rieng-pho-bien-tai-viet-nam-va-dac-tinh-cua-chung
+11. Hiện tượng “sượng" cơm trái sầu riêng: Nguyên nhân và biện pháp khắc phục, truy cập vào tháng 6 6, 2025, https://binhdien.com/dong-hanh-cung-nha-nong/chuong-trinh-canh-tac-thong-minh/hien-tuong-suongquot-com-trai-sau-rieng-nguyen-nhan-va-bien-phap-khac-phuc.html
+12. Sầu riêng bị sượng cơm là do đâu?, truy cập vào tháng 6 6, 2025, https://nongnghiepvn.net/sau-rieng-bi-suong-com/
+13. GIỐNG SẦU RIÊNG KHỔ QUA - DrXanh - Chuyên Gia Bệnh Viện Cây Trồng, Giải Pháp Nông Nghiệp Hữu Cơ Tại Việt Nam, truy cập vào tháng 6 6, 2025, https://drxanh.com/giong-sau-rieng-kho-qua/
+14. Điều kiện ngoại cảnh cho cây sầu riêng - RED PINE, truy cập vào tháng 6 6, 2025, https://redpineinternational.vn/ky-thuat-nong-nghiep/dieu-kien-ngoai-canh-cay-sau-rieng/
+15. Cây sầu riêng: cách trồng, chọn giống, chăm sóc và những điều chưa biết - Foodmap, truy cập vào tháng 6 6, 2025, https://foodmap.asia/tin-tuc/cay-sau-rieng-cach-trong-chon-giong-cham-soc-va-nhung-dieu-chua-biet
+16. Cây Sầu Riêng: Đặc Điểm, Cách Trồng Và Lưu Ý Chăm Sóc - bTaskee, truy cập vào tháng 6 6, 2025, https://www.btaskee.com/kinh-nghiem-hay/cay-sau-rieng/
+17. Kỹ thuật chăm sóc sầu riêng và phòng trị 9 loại bệnh hại - SFARM, truy cập vào tháng 6 6, 2025, https://sfarm.vn/ky-thuat-cham-soc-sau-rieng-theo-tung-giai-doan/
+18. THỜI TIẾT LẠNH ẢNH HƯỞNG NHƯ THẾ NÀO ĐẾN QUÁ TRÌNH ..., truy cập vào tháng 6 6, 2025, https://sittovietnam.com/kien-thuc/cay-sau-rieng/thoi-tiet-lanh-anh-huong-nhu-the-nao-den-qua-trinh-ra-hoa-va-phat-trien-hoa-cua-cay-sau-rieng
+19. cách trồng chăm sóc sầu riêng đạt năng suất cao nhất | Thông Đỏ - Redpineinternational, truy cập vào tháng 6 6, 2025, https://redpineinternational.vn/ky-thuat-nong-nghiep/cach-trong-cham-soc-sau-rieng-dat-nang-suat-cao-nhat/
+20. Hướng dẫn kỹ thuật canh tác cây sầu riêng theo tiêu chuẩn ..., truy cập vào tháng 6 6, 2025, https://trungtamphantichchungnhanhanoi.gov.vn/canh-tac-cay-sau-rieng-tieu-chuan-vietgap/
+21. Cách trồng và chăm sóc cây sầu riêng theo từng giai đoạn 1 - PH Việt Nam, truy cập vào tháng 6 6, 2025, https://phvietnam.vn/trong-cham-soc-cay-sau-rieng/
+22. Kỹ thuật trồng và chăm sóc sầu riêng, truy cập vào tháng 6 6, 2025, http://khuyennong.lamdong.gov.vn/ky-thuat-trong-trot/ki-thuat-trong-cay-an-qua/667-ky-thuat-trong-va-cham-soc-sau-rieng
+23. BỐ TRÍ VÙNG ĐẤT VÀ KHOẢNG CÁCH TRỒNG SẦU RIÊNG - Agriplus, truy cập vào tháng 6 6, 2025, https://agriplusvn.com/nhung-kien-thuc-can-trang-bi-truoc-khi-trong-sau-rieng
+24. QUY TRÌNH KỸ THUẬT CANH TÁC SẦU RIÊNG - BIOCHEM VIỆT Á, truy cập vào tháng 6 6, 2025, https://biochemvieta.com/dich-vu/quy-trinh-ky-thuat-canh-tac-sau-rieng-1174.html
+25. Sâu bệnh hại cây sầu riêng và cách phòng trừ - Nông học, truy cập vào tháng 6 6, 2025, https://nonghoc.net/trong-cay-an-qua/sau-benh-hai-cay-sau-rieng-va-cach-phong-tru-15.html
+26. Bệnh trên cây sầu riêng và các biện pháp phòng trừ hiệu quả - Redpineinternational, truy cập vào tháng 6 6, 2025, https://redpineinternational.vn/ky-thuat-nong-nghiep/benh-tren-cay-sau-rieng/
+27. sầu riêng ngập úng mùa mưa xử lý như thế nào? - Phân bón 3 TỐT, truy cập vào tháng 6 6, 2025, https://www.phanbon3tot.com/sau-rieng-ngap-ung-mua-mua-xu-ly-nhu-the-nao
+28. LÀM BÔNG SẦU RIÊNG Ở ĐBSCL, MIỀN ĐÔNG, TÂY NGUYÊN CÓ GÌ KHÁC NHAU? Phân Bón 3Tot.vn, truy cập vào tháng 6 6, 2025, https://www.phanbon3tot.com/vu-mua-lam-bong-giua-dong-bang-song-cuu-long-mien-dong-tay-nguyen-co-khac-nhau
+29. Các Yếu Tố ĐẤT, NƯỚC Trong Canh Tác SẦU RIÊNG ĐBSCL - YouTube, truy cập vào tháng 6 6, 2025, https://www.youtube.com/watch?v=HGOU44Sax9A
+30. BIỆN PHÁP CANH TÁC CÂY SẦU RIÊNG TRONG MÙA HẠN MẶN, truy cập vào tháng 6 6, 2025, https://phanbondientrang.vn/ky-thuat/bien-phap-canh-tac-cay-sau-rieng-trong-mua-han-man-410.html
+31. Xâm Nhập Mặn Ảnh Hưởng Đến Cây Sầu Riêng Như Thế Nào? - Tin Cậy, truy cập vào tháng 6 6, 2025, https://tincay.com/xam-nhap-man-anh-huong-den-cay-sau-rieng-nhu-the-nao/
+32. Các giai đoạn sinh trưởng của cây sầu riêng – Nông nghiệp AVN, truy cập vào tháng 6 6, 2025, https://nongnghiepavn.com/cac-giai-doan-sing-truong-cua-cay-sau-rieng/
+33. Khoảng Cách Trồng Sầu Riêng đúng Tiêu Chuẩn - AgriDrone, truy cập vào tháng 6 6, 2025, https://agridrone.vn/khoang-cach-trong-sau-rieng/
+34. PHÒNG TRỪ SÂU HẠI SẦU RIÊNG - DrXanh - Chuyên Gia Bệnh Viện Cây Trồng, Giải Pháp Nông Nghiệp Hữu Cơ Tại Việt Nam, truy cập vào tháng 6 6, 2025, https://drxanh.com/phong-tru-sau-hai-sau-rieng/
+35. Cách chăm sóc và phòng trừ sâu bệnh cho cây sầu riêng | Cơ Khí Thành Phát, truy cập vào tháng 6 6, 2025, https://becthanhphat.com/2024/04/09/cach-cham-soc-va-phong-tru-sau-benh-cho-cay-sau-rieng/
+36. CÁCH PHÒNG TRỊ BỆNH NỨT THÂN XÌ MỦ SẦU RIÊNG - CÔNG TY CP TMDV GIANG TÂY, truy cập vào tháng 6 6, 2025, https://giangtaycorp.com/ki-thuat-trong-cay/ky-thuat-trong-cay-sau-rieng/cach-phong-tri-benh-nut-than-xi-mu-sau-rieng.html
+37. Bệnh nứt thân xì mủ trên cây sầu riêng và biện pháp phòng trừ, truy cập vào tháng 6 6, 2025, https://vietthanghanoi.vn/benh-nut-than-xi-mu-tren-cay-sau-rieng/
+38. Rệp sáp gây hại trên cây sầu riêng và các biện pháp phòng trừ, truy cập vào tháng 6 6, 2025, https://vietthanghanoi.vn/rep-sap-gay-hai-tren-cay-sau-rieng/
+39. 7 BƯỚC XỬ LÝ RA HOA NGHỊCH VỤ CHO CÂY SẦU RIÊNG TẠI KHU VỰC ĐBSCL, truy cập vào tháng 6 6, 2025, https://mekosilt.com/quy-trinh-7-buoc-xu-ly-ra-hoa-nghich-vu-cho-cay-sau-rieng/
+40. cách xử lý ra hoa sầu riêng vụ nghịch không paclo - Phân bón 3 TỐT, truy cập vào tháng 6 6, 2025, https://www.phanbon3tot.com/hoa-sau-rieng-vu-nghich-khong-paclo
+41. # 9+ Các Loại Bệnh Trên Cây Sầu Riêng Thường Gặp Nhất - Happy Agri, truy cập vào tháng 6 6, 2025, https://happyagri.com.vn/cac-loai-benh-tren-cay-sau-rieng/
+42. 6 Bệnh Thường Gặp Trên Cây Sầu Riêng - Tin Cậy, truy cập vào tháng 6 6, 2025, https://tincay.com/6-benh-thuong-gap-tren-cay-sau-rieng/
+43. SÂU ĐỤC TRÁI SẦU RIÊNG - NHẬN BIẾT VÀ PHÒNG TRỪ - DrXanh - Chuyên Gia Bệnh Viện Cây Trồng, Giải Pháp Nông Nghiệp Hữu Cơ Tại Việt Nam, truy cập vào tháng 6 6, 2025, https://drxanh.com/sau-duc-trai-sau-rieng/
+44. Sâu Đục Trái Gây Hại Trên Cây Sầu Riêng - Tin Cậy, truy cập vào tháng 6 6, 2025, https://tincay.com/sau-duc-trai-gay-hai-tren-cay-sau-rieng/
+45. NHỮNG YÊU CẦU CẦN THIẾT ĐỐI VỚI SẦU RIÊNG TƯƠI XUẤT KHẨU SANG TRUNG QUỐC - Rồng Biển Logistics, truy cập vào tháng 6 6, 2025, https://dichvuthutuchaiquan.vn/nhung-yeu-cau-can-thiet-doi-voi-sau-rieng-tuoi-xuat-khau-sang-trung-quoc
+46. Thủ tục xuất khẩu sầu riêng sang Trung Quốc mới nhất 2025 - Q-CERT, truy cập vào tháng 6 6, 2025, https://qcert.vn/xuat-khau-sau-rieng/
+47. Đẩy nhanh thủ tục xuất khẩu sầu riêng mà vẫn đảm bảo kiểm tra sau thông quan, truy cập vào tháng 6 6, 2025, https://taca.com.vn/thu-tuc-xuat-khau-sau-rieng/
+48. Tiêu Chuẩn Xuất Khẩu Sầu Riêng Sang Trung Quốc - Tin Cậy, truy cập vào tháng 6 6, 2025, https://tincay.com/tieu-chuan-xuat-khau-sau-rieng-sang-trung-quoc/
+49. Thủ tục xuất khẩu sầu riêng - Expander Logistics, truy cập vào tháng 6 6, 2025, https://expanderlogistics.com/thu-tuc-xuat-khau-sau-rieng/
+50. Cách Đo Độ Ngọt Sầu Riêng - Tin Cậy, truy cập vào tháng 6 6, 2025, https://tincay.com/cach-do-do-ngot-sau-rieng/
+51. Màu Sắc Cơm Sầu Riêng Theo Độ Tuổi - Vinadurian, truy cập vào tháng 6 6, 2025, https://vinadurian.com/mau-sac-com-sau-rieng-theo-do-tuoi/
+52. SẦU RIÊNG IQF LÀ GÌ? SẦU RIÊNG RI6 IQF VÀ SẦU RIÊNG MONTHONG IQF LÀ GÌ?, truy cập vào tháng 6 6, 2025, https://hfoods.vn/vi/sau-rieng-iqf-la-gi-sau-rieng-ri6-iqf-va-sau-rieng-monthong-iqf-la-gi/
+53. PHÂN TÍCH CHUỖI CUNG ỨNG XUẤT KHẨU SẦU RIÊNG CỦA VIỆT NAM SANG THỊ TRƯỜNG TRUNG QUỐC - Scribd, truy cập vào tháng 6 6, 2025, https://www.scribd.com/document/788567822/PHAN-TICH-CHU%E1%BB%96I-CUNG-%E1%BB%A8NG-XU%E1%BA%A4T-KH%E1%BA%A8U-S%E1%BA%A6U-RIENG-C%E1%BB%A6A-VI%E1%BB%86T-NAM-SANG-TH%E1%BB%8A-TR%C6%AF%E1%BB%9CNG-TRUNG-QU%E1%BB%90C
+54. Cách Phân Biệt Sầu Riêng Non Và Sầu Riêng Chín Cây – Mẹo Nhận Biết Chuẩn Nhất, truy cập vào tháng 6 6, 2025, https://www.motchutsaurieng.vn/blogs/news/cach-phan-biet-sau-rieng-non-va-sau-rieng-chin-cay-meo-nhan-biet-chu
+55. Tiêu chuẩn xuất khẩu xoài tươi của Việt Nam đến một số thị trường quốc tế, truy cập vào tháng 6 6, 2025, https://www.thitruongrauqua.com/tin/128579/tieu-chuan-xuat-khau-xoai-tuoi-cua-viet-nam-den-mot-so-thi-truong-quoc-te
+56. Bí Quyết Chọn Sầu Riêng Ri6 Chín Tự Nhiên và Thơm Ngon, truy cập vào tháng 6 6, 2025, https://chanhthu.com/bi-quyet-chon-sau-rieng-ri6-chin-tu-nhien-va-thom-ngon/
+57. Sầu riêng xuất khẩu sang Trung Quốc phải đạt tiêu chuẩn nào? - Proship.vn, truy cập vào tháng 6 6, 2025, https://proship.vn/news/sau-rieng-xuat-khau-sang-trung-quoc-phai-dat-tieu-chuan-nao/
+58. Xuất khẩu sầu riêng sang Trung Quốc - hướng dẫn chi tiết, truy cập vào tháng 6 6, 2025, https://finchlaw.com.vn/tu-van-xuat-nhap-khau/xuat-khau-sau-rieng-sang-trung-quoc-huong-dan-chi-tiet/
+59. Giám sát toàn diện chuỗi sản xuất và xuất khẩu sầu riêng - Báo Nhân Dân, truy cập vào tháng 6 6, 2025, https://nhandan.vn/giam-sat-toan-dien-chuoi-san-xuat-va-xuat-khau-sau-rieng-post883940.html
+60. Thủ tục xuất khẩu nông sản sang Hàn Quốc - Logistics Solution, truy cập vào tháng 6 6, 2025, https://logistics-solution.com/xuat_khau/thu-tuc-xuat-khau-nong-san-sang-han-quoc/
+61. Tiêu chuẩn xuất khẩu sầu riêng - VẬN TẢI HẬU CẦN HÀNG KHÔNG VIỆT, truy cập vào tháng 6 6, 2025, https://vietsupplychain.com/dich-vu/tieu-chuan-xuat-khau-sau-rieng/
+62. Thủ tục xuất khẩu sầu riêng – HP Toàn Cầu Logistics, truy cập vào tháng 6 6, 2025, https://hptoancau.com/xuat-khau-sau-rieng/
