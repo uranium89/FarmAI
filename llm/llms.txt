@@ -4,7 +4,7 @@ Tài liệu tổng hợp chuyên sâu về nhiều loại cây trồng (sầu ri
 
 ## Mục lục
 
-- [Sầu riêng](/llm/sau-rieng/llms.txt)
+- [Sầu riêng](/llm/sau-rieng/sau-rieng-llms.txt)
   - Báo cáo chuyên sâu về sầu riêng: giống, kỹ thuật, sâu bệnh, xuất khẩu...
 
 ## Tham khảo chi tiết
